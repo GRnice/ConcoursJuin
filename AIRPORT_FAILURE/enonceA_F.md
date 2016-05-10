@@ -49,7 +49,13 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 ### Sortie
 
 + Pour chaque avion dérouté , votre programme doit afficher à l'écran l'aéroport de substitution
-  
+Si votre récupère l'entrée donnée au dessus, la sortie devra ressembler à cela
+```
+AF754 -> D
+AF755 -> D
+AF756 -> D
+
+```
   
 # Exercices:
 
