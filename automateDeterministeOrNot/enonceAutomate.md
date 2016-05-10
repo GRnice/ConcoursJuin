@@ -31,6 +31,7 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 4 B 5
 5 A 5
 5 B 6
+```
   + la premiere ligne indique le nombre d'etats , et le nombre de transitions
   + la deuxieme ligne donne l'identifiant de chaque état
   + de la 3ème à la derniere ligne se trouve la table de transition , chaque ligne contient : 
@@ -38,7 +39,7 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
   
   **Bien entendu il s'agit d'un** ***exemple*** ! Il peut y avoir plus/moins d'états , ou de transitions
   
-```
+
 
 ### Sortie
 + Pour chaque automate , votre programme doit afficher à l'ecran le résultat , qui sera soit INDETERMINISTE ou DETERMINISTE
