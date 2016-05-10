@@ -46,4 +46,4 @@ L'objectif est donc de **rediriger** les avions affectés par la fermeture de le
   + de la 11ème à la 13ème le listing des avions , chaque ligne contient : le nom de l'avion , sa position en x , sa position en y , sa destination
   + la derniere ligne est une liste d'aéroport fermés
   
-  **Bien entendu il s'agit d'un** ***exemple*** ! le nombre d'aéroports et d'avions peut varier !
+  **Bien entendu il s'agit d'un** ***exemple*** ! Il peut y avoir plus/moins d'aeroports , ou d'avions
