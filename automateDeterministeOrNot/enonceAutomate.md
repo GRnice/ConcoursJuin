@@ -50,3 +50,6 @@ INDETERMINISTE
 
 ```
 le résultat se termine avec un retour à la ligne
+
+# Exercice:
+1) AUTO-1 Résoudre le problème ...
