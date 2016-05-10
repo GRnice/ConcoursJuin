@@ -39,7 +39,7 @@ L'objectif est donc de **rediriger** les avions affectés par la fermeture de le
   FAIL A B C
   ```
   + la premiere ligne donne le nombre d'aeroports,
-  + de la 2ème à la 9ème ligne se trouve listing des aéroports 
+  + de la 2ème à la 9ème ligne se trouve le listing des aéroports où
   chaque ligne contient : le nom de l'aeroport , sa position en x , sa position en y , puis une série de noms d'aéroports à proximité
   + la 10ème ligne donne le nombre d'avions en vol.
   + de la 11ème à la 13ème le listing des avions , chaque ligne contient : le nom de l'avion , sa position en x , sa position en y , sa destination
