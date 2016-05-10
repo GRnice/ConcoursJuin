@@ -8,18 +8,17 @@ Ce qui entraine automatiquement une perturbation du trafic.
 ## Objectif:
 L'objectif est donc de **rediriger** les avions affectés par la fermeture de leur destination sur l'aéroport le plus proche de leur destination.
 
-## Aspects techniques:
-+ Pour récuperer les paramètres en entrée:
+## Entrée & sortie:
+Votre programme devra traiter les paramètres donnés en entrée , et fournir une solution via une fonction d'affichage...
+
+### Entrée
+
++ **Pour récuperer l'entrée:**
 
   + en Python lienIci
   + en C++ lienIci
   + en C lienIci
   + en Java lienIci
-  
-  
-# Exercices:
-
-1) Résoudre le problème énoncé au dessus en tenant compte des paramètres donnés en entrée.
 
 + **Exemple d'une entrée**
   ```
@@ -46,3 +45,14 @@ L'objectif est donc de **rediriger** les avions affectés par la fermeture de le
   + la derniere ligne est une liste d'aéroport fermés
   
   **Bien entendu il s'agit d'un** ***exemple*** ! Il peut y avoir plus/moins d'aeroports , ou d'avions
+
+### Sortie
+
++ Pour chaque avion dérouté , votre programme doit afficher à l'écran l'aéroport de substitution
+  
+  
+# Exercices:
+
+1) Résoudre le problème énoncé au dessus en tenant compte des paramètres donnés en entrée.
+
+
