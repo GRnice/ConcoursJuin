@@ -42,7 +42,9 @@ Il existe en tout et pour tout 4 instructions qui sont les suivantes:
   + ```DEBITECOUNT nom_compte somme```: débite ```somme``` au compte qui a pour nom ```nom_compte```
 
 Pour chaque opération, vous devez afficher le nom du compte sur lequel est réalisé une opération et son solde spéaré par ```:```.
+
 En cas de création de compte vous fixerez le solde du compte à 0.
+
 En cas de suppréssion de compte vous fixerez le solde compte à ```null```.
 
 # Exercices:
