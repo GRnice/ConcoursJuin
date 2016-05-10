@@ -49,14 +49,17 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 ### Sortie
 
 + Pour chaque avion dérouté , votre programme doit afficher à l'écran l'aéroport de substitution
-Si votre récupère l'entrée donnée au dessus, la sortie devra ressembler à cela
+Si votre programme récupère l'entrée donnée au dessus, la sortie devra ressembler à cela
 ```
 AF754 -> D
 AF755 -> D
 AF756 -> D
 
 ```
-  
+
+## Aspect technique:
+Pour calculer la distance entre deux aéroports , le calcul d'une simple norme mathématique suffit
+
 # Exercices:
 
 1) Résoudre le problème énoncé au dessus en tenant compte des paramètres donnés en entrée.
