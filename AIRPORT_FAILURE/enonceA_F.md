@@ -23,6 +23,7 @@ L'objectif est donc de **rediriger** les avions affectés par la fermeture de le
 
 + **Exemple**
   ```
+  
   8
   A 1 2 B C
   B 3 5 A D
@@ -38,9 +39,10 @@ L'objectif est donc de **rediriger** les avions affectés par la fermeture de le
   AF756 0 0 A
   FAIL A B C
   ```
-  la premiere ligne donne le nombre d'aeroports,
-  de la 2ème à la 9ème ligne se trouve listing des aéroports 
+  + la premiere ligne donne le nombre d'aeroports,
+  + de la 2ème à la 9ème ligne se trouve listing des aéroports 
   chaque ligne contient : le nom de l'aeroport , sa position en x , sa position en y , puis une série de noms d'aéroports à proximité
-  la 10ème ligne donne le nombre d'avions en vol.
-  de la 11ème à la 13ème le listing des avions , chaque ligne contient : le nom de l'avion , sa position en x , sa position en y , sa destination
-  la derniere ligne est une liste d'aéroport fermés
+  + la 10ème ligne donne le nombre d'avions en vol.
+  + de la 11ème à la 13ème le listing des avions , chaque ligne contient : le nom de l'avion , sa position en x , sa position en y , sa destination
+  + la derniere ligne est une liste d'aéroport fermés
+  ** Bien entendu il s'agit d'un** ***exemple*** ! le nombre d'aéroports et d'avions peut varier !
