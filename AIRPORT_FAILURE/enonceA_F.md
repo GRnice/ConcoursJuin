@@ -21,9 +21,8 @@ L'objectif est donc de **rediriger** les avions affectés par la fermeture de le
 
 1) Résoudre le problème énoncé au dessus en tenant compte des paramètres donnés en entrée.
 
-+ **Exemple**
++ **Exemple d'une entrée**
   ```
-  
   8
   A 1 2 B C
   B 3 5 A D
