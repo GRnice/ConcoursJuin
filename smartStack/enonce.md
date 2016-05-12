@@ -77,9 +77,7 @@ BASEPOP     # retirer l'élément situé à la base
 PUSH 5      # ajouter 5
 PRINTSTACK  # afficher le contenu de la smartStack
 ```
-
-
-
+<br/><br/><br/><br/>
 
 + 2) **SSA2 - Ecrivez un algorithme qui traitera les instructions données en entrée.**
 
