@@ -81,23 +81,24 @@ PRINTSTACK  # afficher le contenu de la smartStack
 
 + 2) **SSA2 - Ecrivez un algorithme qui traitera les instructions données en entrée.**
 
-+ Exemple
-  + Entrée:
+  + Exemple
+
+    + Entrée:
+    ```
+  8           # nombre d'instructions a éxécuter dans l'ordre
+  PUSH 5      # ajouter 5
+  PUSH 0      # ajouter 0
+  PRINTSTACK
+  POP
+  PRINTSTACK
+  PUSH 9
+  BASEPOP
+  PRINSTACK
   ```
-8           # nombre d'instructions a éxécuter dans l'ordre
-PUSH 5      # ajouter 5
-PUSH 0      # ajouter 0
-PRINTSTACK
-POP
-PRINTSTACK
-PUSH 9
-BASEPOP
-PRINSTACK
-```
-  + Sortie:
-  ```
-  5 0
-  5
-  9
-  
-  ```
+    + Sortie:
+    ```
+    5 0
+    5
+    9
+    
+    ```
