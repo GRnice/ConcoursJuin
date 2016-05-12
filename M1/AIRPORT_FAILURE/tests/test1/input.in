@@ -1,0 +1,14 @@
+8
+A 1 2 B C
+B 3 5 A D
+C 2 8 A D
+D 5 11 C B E F
+E 2 15 D
+F 5 18 D G H
+G 5 22 F
+H 5 25 F
+3
+AF754 0 0 A
+AF755 0 0 A
+AF756 0 0 A
+FAIL A B C
