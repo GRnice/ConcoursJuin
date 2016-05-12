@@ -28,16 +28,16 @@
 
 ===================== L3 ===========================
 * Evaluer un automate et indiquer si il est deterministe OU non deterministe - L3 !! CHECK !!
-* Poupée russe -> mathias
 * isATree -> L3 CHECK
 * QTGIFT3 http://www.spoj.com/problems/QTGIFT3/ L3 -> mathias CHECK
 * QTREE2 http://www.spoj.com/problems/QTREE2/ -> Distance entre deux points dans un arbre CHECK
-
+1!
 ====================================================
 
 ===================== M1 ===========================
 * VOCV http://www.spoj.com/problems/VOCV/ Master 1 CHECK
 * AIRPORTFAIL Gestion du trafic aerien !! CHECK
+* Poupée russe -> mathias
 
 2!
 
