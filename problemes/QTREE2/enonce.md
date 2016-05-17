@@ -14,12 +14,14 @@ Nous vous demanderons d'évaluer quelques instructions de la forme suivante :
 
 ## Exemple
 
+```
 N = 6
 1 2 // sommet 1 connecté au sommet 2
 2 4 // sommet 2 connecté au sommet 4
 2 5 // ...
 1 3 // ...
 3 6 // ...
+```
 
 Le chemin entre le sommet 4 et le sommet 6 est : 4 -> 2 -> 1 -> 3 -> 6
 DIST 4 6 : la réponse est : 4 (1 + 1 + 1 + 1 = 4)
