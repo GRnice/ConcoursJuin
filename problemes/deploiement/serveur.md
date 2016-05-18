@@ -10,5 +10,10 @@ PC2 est un logiciel développé en java , il vous faut donc installer à minima 
 
 ## Etapes
 
-+ Télécharger pc2 à cette adresse http://pc2.ecs.csus.edu/secret.0216.html
-+ Définir le fichier config .ini
+### Télécharger PC2
+A cette adresse http://pc2.ecs.csus.edu/secret.0216.html
+
+### Définir le fichier de configuration
+dans le dossier pc2 , se trouve un fichier de configuration , ouvrez le et inserer à la ligne ... l'adresse IP du serveur ainsi que le port utilisé par PC2
+
+### Ajouter au PATH le chemin absolu menant au dossier bin du dossier pc2
