@@ -60,3 +60,9 @@ A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , 
 
 ```
 **La sortie se terminera toujours par un retour à la ligne**
+
+# Exercices
+
++ 1) QT1 - Exercice préliminaire sur feuille
+
++ 2) QT2 - Coder l'algorithme
