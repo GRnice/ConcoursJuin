@@ -35,10 +35,11 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 
 ### Entrée
 + Pour récuperer l'entrée:
-  + En python lienIci
-  + En C++ lienIci
+  + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md , "python")
+  + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md , "C++")
   + En C lienIci
   + En Java lienIci
+  + En R
 
 + Exemple d'une entrée
 ```
