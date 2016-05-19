@@ -4,7 +4,6 @@ dico =dict()
 racine = None
 
 data = sys.stdin.readlines()
-print(data)
 
 firstLine = data[0]
 firstLine = firstLine[0:-1]
