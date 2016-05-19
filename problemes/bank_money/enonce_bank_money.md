@@ -14,6 +14,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 + **Pour récuperer l'entrée:**
 
   + en Python lien Ici (pas encore bon)
+  + en [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
 
 + **Exemple d'une entrée**
   ```
