@@ -1,13 +1,7 @@
-# Recuperer les entrées en C pour le probleme SmartStack
+# Recuperer les entrées en C pour le problème SmartStack
 
 ## Code
-Le code donné ci-dessous recupère pour vous les paramètres necessaires pour résoudre les problèmes
-
-```
-# Recuperer les entrées en C++
-
-## Code
-Le code donné ci-dessous recupère pour vous les paramètres necessaires pour résoudre les problèmes
+Le code donné ci-dessous recupère pour vous les paramètres necessaires pour résoudre le problème SmartStack
 
 ```C
 #include <stdio.h>
@@ -27,30 +21,4 @@ int main(void)
 }
 ```
 
-Inserez le dans votre code , le vecteur ```vect``` est un tableau où chaque cellule contient une ligne de l'entrée , representée par une string.
-
-## Exploitation
-
-Pour afficher toutes les lignes du vecteur:
-
-```
-for (int i = 0 ; i < vect.size() ; i++)
-	{
-		cout << vect.at(i) << endl;
-	}
-```
-
-```
-
-Inserez le dans votre code , le vecteur ```vect``` est un tableau où chaque cellule contient une ligne de l'entrée , representée par une string.
-
-## Exploitation
-
-Pour afficher toutes les lignes du vecteur:
-
-```
-for (int i = 0 ; i < vect.size() ; i++)
-	{
-		cout << vect.at(i) << endl;
-	}
-```
+Inserez le dans votre code.
