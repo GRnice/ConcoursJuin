@@ -1,3 +1,8 @@
+# Entrées en C pour le problème Bank_money
+
+## Code
+Le code donné ci-dessous recupère pour vous les paramètres necessaires pour résoudre le problème Bank_money
+
 ```C
 #include <stdio.h>
 #include <stdlib.h>
@@ -18,3 +23,10 @@ int main(void){
 	return 0;
 }
 ```
+
+Inserez le dans votre code pour récuperer les entrées.
+
+
+
+
+
