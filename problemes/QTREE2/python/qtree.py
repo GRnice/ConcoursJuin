@@ -1,9 +1,10 @@
+import sys
+
 dico =dict()
 racine = None
 
-file = open("input.txt","r",encoding="utf-8")
-data = file.readlines()
-file.close()
+data = sys.stdin.readlines()
+print(data)
 
 firstLine = data[0]
 firstLine = firstLine[0:-1]
@@ -33,6 +34,7 @@ class Node:
 def calculDistance(liste):
     res = 0
     node = None
+    print(liste)
     for i in range(len(liste)):
         node = dico[liste[i]]
         res = res + node.poids
@@ -161,8 +163,4 @@ def request():
             
 
 build()
-request()          
-
-        
-    
-    
+request()
