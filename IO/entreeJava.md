@@ -43,7 +43,7 @@ public class StdinExtract
 }
 ```
 
-Inserez la classe dans votre code ,  un tableau où chaque cellule contient une ligne de l'entrée , representée par une string.
+Inserez la classe dans votre code ,  la méthode getEntrees() retourne une ArrayList de Strings , où chaque String represente une ligne de l'entrée.
 
 ## Exploitation
 
