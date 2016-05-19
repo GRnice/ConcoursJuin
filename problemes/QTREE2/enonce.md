@@ -15,7 +15,7 @@ Nous vous demanderons d'évaluer des instructions de la forme suivante :
 ## Exemple
 
 ```
-N = 6
+6 // 6 noeuds
 1 2 // sommet 1 connecté au sommet 2
 2 4 // sommet 2 connecté au sommet 4
 2 5 // ...
@@ -23,6 +23,7 @@ N = 6
 3 6 // ...
 DIST 4 6
 KTH 4 6 4
+DONE // indique qu'il n'y a plus rien à faire
 ```
 
 Le chemin entre le sommet 4 et le sommet 6 est : 4 -> 2 -> 1 -> 3 -> 6
