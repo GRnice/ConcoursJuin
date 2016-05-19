@@ -21,8 +21,8 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
   + En Java lienIci
 
 + Exemple d'une entrée
+les instructions doivent etre éxécutées dans **l'ordre**.
 ```
-11          # nombre d'instructions a éxécuter dans l'ordre
 PUSH 4      # ajouter 4
 PUSH 0      # ajouter 0
 PUSH 9      # ajouter 9
