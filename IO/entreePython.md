@@ -1,4 +1,4 @@
-# Recuperer les entrées en C++
+# Recuperer les entrées en Python
 
 ## Code 
 Le code donné ci-dessous recupère pour vous les paramètres necessaires pour résoudre les problèmes
