@@ -62,7 +62,7 @@ A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , 
 3
 
 ```
-**La sortie se terminera toujours par un retour à la ligne**
+**La sortie se terminera toujours par un unique retour à la ligne**
 
 # Exercices
 
