@@ -9,6 +9,8 @@ L'objectif est donc de**détecter** le vainqueur en analysant la puissance de fe
 ## Entrée & sortie:
 Votre programme devra traiter les paramètres donnés en entrée, et fournir une solution via une fonction d'affichage...
 
+Chaque bataille est rerésenter par 4 lignes dans le fichier. Pour chaque chaque ensemble de 4 lignes, la première indique le nombre de division que l'armée possède, la ligne suivante indique pour chaque division sa puissance de feu. Les 2 lignes suivant la même chose mais pour l'armée enemie. 
+
 ### Entrée
 
 + **Pour récuperer l'entrée:**
@@ -34,24 +36,16 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 ### Sortie
 
-+ Pour chaque instruction vous agirez en fonction.
++ Pour chaque bataille, les 2 premières lignes représentent l'armée nommé "Zerg" et les 2 suivantes représentent l'armée nommé "Terran". Il suffira juste d'affichier le nom du vainqueur, en cas d'égalité vous afficherez "Draw". 
 
 ```
-  vainqueur
+Terran
+Terran
+Draw
 ```
 
 ## Aspect technique:
-Il existe en tout et pour tout 4 instructions qui sont les suivantes:
-  + ```CREATECOUNT nom_compte```: crée un compte qui a pour nom ```nom_compte```
-  + ```DELETECOUNT nom_compte```: supprime le compte qui a pour nom ```nom_compte```
-  + ```CREDITCOUNT nom_compte somme```: crédite ```somme``` au compte qui a pour nom ```nom_compte```
-  + ```DEBITECOUNT nom_compte somme```: débite ```somme``` au compte qui a pour nom ```nom_compte```
 
-Pour chaque opération, vous devez afficher le nom du compte sur lequel est réalisé une opération et son solde spéaré par ```:```.
-
-En cas de création de compte vous fixerez le solde du compte à 0.
-
-En cas de suppréssion de compte vous fixerez le solde compte à ```null```.
 
 # Exercices:
 
