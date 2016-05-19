@@ -21,4 +21,4 @@ int main(void)
 }
 ```
 
-Inserez le dans votre code.
+Inserez le dans votre code pour récuperer les entrées.
