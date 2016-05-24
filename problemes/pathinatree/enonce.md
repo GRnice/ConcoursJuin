@@ -68,5 +68,20 @@ A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , 
 # Exercices
 
 + 1) QT1 - Exercice préliminaire sur feuille
++ 
+Envoyez un code affichant le résultat des deux instructions en fonction de la composition de l'arbre donné ci-dessous , l'affichage se terminera sur un retour à la ligne.
+
+Voici les instructions:
+
+```
+6 # nombre de noeuds
+1 2  # noeud 1 connecté au noeud 2 , le pere est le membre de gauche , dans ce cas 1 est l'ancetre de 2
+2 3  # noeud 2 connecté au noeud 3
+3 4  # ...
+1 5  # ...
+5 6  # ...
+DIST 4 6 # afficher la plus courte distance entre ces deux noeuds
+KTH 4 6 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers le sommet 6
+```
 
 + 2) QT2 - Coder l'algorithme
