@@ -1,8 +1,62 @@
-# Permutation Ambigüe
- 
-**Une permutation inverse** d'un ensemble X est une bijection de X sur lui-même où chaque élement i de cette ensemble, se retrouve à la i-éme position du nouvel ensemble obtenue.
+#PERMUTATION AMBIGÜE
 
-+ **Exemple**:
+## Problème
+**Une permutation inverse** d'un ensemble X est une bijection de X sur lui-même où chaque élement i de cet ensemble se retrouve à la i-éme position du nouvel ensemble obtenue.
+Il y a **permutation ambigüe** lorsqu'on applique une permutation inverse à un ensemble X et que l'ensemble X' obtenue est le même que l'ensemble de départ X.
+
+## Objectif
+On vous donne deux listes d'entiers de même taille, le but est de savoir si une liste est permutation ambigüe ou pas de l'autre liste.
+
+
+## Exemple
+
+**input**
+  ```
+   1 4 3 2 
+   1 4 3 2
+  ```
+  
+**output**
+  ```
+  TRUE
+  ```
+La deuxieme liste est obtenue par **permutation inverse** de la premiere liste,  de plus on observe qu'elles sont identiques il y a donc **permutation ambigüe**
+
+La première ligne représente la liste L1 et la deuxième la liste L2.
+  +	On peut observer que le premier élément de L1 est un **un** d'indice **1**, on retouve donc à l'indice **1** de L2 l'élément **un**.
+  +	Le deuxième élément de L1 est un **quatre** d'indice **2**, on retrouve donc à l'indice **4** de L2 l'élément **deux**.
+  +	Le troisième élément de L1 est un **trois** d'indice **3**, on retrouve donc à l'indice **3** de L2 l'élément **trois**.
+  +	Le quatrième élément de L1 est un **deux** d'indice **4**, on retrouve donc à l'indice **2** de L2 l'élément **quatre**.
+
+
+## Entrée & sortie:
+Votre programme devra traiter les paramètres donnés en entrée, et fournir une solution via une fonction d'affichage...
+
+### Entrée
+
++ **Pour récuperer l'entrée:**
+
+  + en [Python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md "Python")
+  + en [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
+
++ **Exemple d'une entrée**
+  ```
+   1 4 3 2 
+   1 4 3 2
+  ```
+
+### Sortie
+
++ Pour chaque instruction vous agirez en fonction.
+
+	```
+   TRUE
+	```
+    
+## ASPECTS TECHNIQUES
+
+
+ **Exemple Permutation inverse**:
 
   + **Input**
   
@@ -23,67 +77,9 @@
      +	Le quatrième élément de L1 est un **cinq** d'indice **4**, on retrouve donc à l'indice **5** de L2 l'élément **quatre**.
      +	Le cinquième élément de L1 est un **un** d'indice **5**, on retrouve donc à l'indice **1** de L2 l'élément **un**.
 
-Il y a **permutation ambigüe** lorsqu'on applique une permutation inverse à un ensemble X et que l'ensemble X' obtenue est le même que l'ensemble de départ X.
-Le but de cet exercice est de vérifier si une suite de nombre L1 est une permutation ambigüe d'une autre liste L2.
+# Exercices:
 
-
-
-+ **Exemple**:
-
-  + **Input**
-  
-     ```R
-     1 4 3 2 
-     1 4 3 2
-     ```
-    
-  + **Output**
-  
-     ```R
-     TRUE
-     ```
- 
-	+	La liste L2 est la liste L1 obtenue par permutation inverse.
-	+	On observe que la liste L1 et L2 sont les mêmes donc il y a bien eu permutation ambigüe.
-
-
-
-## Entrée & sortie
-
-+ **Entrée**:
-  + **Exercice 2**
-     Sur la première ligne du fichier d'entrée vous trouverez la liste L1 
-     et sur la deuxième ligne L2.
-
-    ```R
-     flux=file("stdin","r")s
-     L1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-     L2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
-    ```
-    
-  + **Exercice 3**
-     Sur la première ligne du fichier d'entrée vous trouverez la liste L1 
-     et sur la deuxième ligne L2.
-  
-     ```R
-     flux=file("stdin","r")
-     L1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-     L2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
-    ```
-      A savoir que pour tous les exercices les fichiers d'entrées seront bien formés.
-
-+ **Sortie**:
-
-    ```R
-    # TRUE : si L1 est une permutation ambigüe de L2
-    # FALSE sinon
-    cat(votre_resultat) # TRUE ou FALSE
-    ```
-
-## - Exercice
-
-
-+ **1) PERM-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code R utilisant la fonction```cat(arg)```.**
++ **1) PERM-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code du language qu'il vous plait.**
 	+ **Exemple**
 
 		+ **Input**
@@ -93,15 +89,15 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 			1 2 3 4 5 6
 			```
 		
-		+ **Code R**    
+		+ **Code JAVA**    
 		
-			```R
-			cat(FALSE) 
+			```
+			System.out.println("FALSE"); 
 			
 			```
 		+ **Output**
 		
-			```R
+			```
 			FALSE 
 			 ```
 			 
@@ -115,21 +111,21 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 			```
  
 + **2) PERM-2 - Permutation ambigüe I:
-	Ecrivez un code R, qui vérifie si la liste L2 est la liste obtenue par permutation ambigüe de L1, L1 et L2 toutes deux récupérées en entrée.
+	Ecrivez un code , qui vérifie si la liste L2 est la liste obtenue par permutation ambigüe de L1, L1 et L2 toutes deux récupérées en entrée.
     Renvoyez ```TRUE``` ou ```FALSE```**
 
 	+ **Exemple**
 
 		+ **Input**
 		
-			```R
+			```
 			1 2 3 5 4 6
     		1 2 3 5 4 6
 			```
 
 		+ **Output**
 		
-			```R
+			```
 			TRUE 
 			 ```
 
@@ -142,13 +138,16 @@ Le but de cet exercice est de vérifier si une suite de nombre L1 est une permut
 
 		+ **Input**
 		
-			```R
+			```
 	       1 4 3 2 
    	    5 11 9 7
 			```
 
 		+ **Output**
 		
-			```R
+			```
 			TRUE 
 			 ```
+
+
+
