@@ -85,3 +85,4 @@ KTH 4 6 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers
 ```
 
 + 2) QT2 - Coder l'algorithme
+Ecrivez un code qui appliquera les instructions passés en paramètre.
