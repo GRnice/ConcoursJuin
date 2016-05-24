@@ -11,4 +11,4 @@
 + [Epluchage](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/epluchage/enonce.md "Epluchage")
 + [SmartStack](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/smartStack/enonce.md "SmartStack")
 + [Isatree](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/isATree/enonce.md "Isatree")
-+ [Qtree](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/QTREE2/enonce.md "Qtree")
++ [PathInATree](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/pathiatree/enonce.md "Qtree")
