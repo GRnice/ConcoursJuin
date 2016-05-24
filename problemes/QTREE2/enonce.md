@@ -1,4 +1,4 @@
-# QTREE
+# PathInATree
 
 ## Probleme
 On vous donne un arbre avec N noeuds ayant des noeuds numérotés de 1 à N- 1 . Chaque arête possède une valeur entière qui lui est attribuée (toutes les valeurs sont fixées à 1) , cette valeur représente la distance entre deux noeuds .
