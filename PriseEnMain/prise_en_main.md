@@ -5,6 +5,7 @@ Prise en main de PC2
 
 ----------------
 
+[![Everything Is AWESOME]](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 Lancement du client PC2
 -----------------------------------
