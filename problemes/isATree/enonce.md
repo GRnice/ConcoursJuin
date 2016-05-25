@@ -1,6 +1,7 @@
 #IsATree?
 
 ## Problème
+On souhaite analyser une structure de données composée de sommets et d'arêtes, et déterminer s'il s'agit d'arbre ou d'un graphe.
 
 Un arbre, par définition est un graphe connexe sans cycle,
 Soit G un arbre à n sommets, il a pour propriétées:
@@ -12,7 +13,7 @@ Soit G un arbre à n sommets, il a pour propriétées:
 
 ## Objectif
 
-Le but de cet exercice est d'affirmer qu'un ensemble de sommets et d'arretes représente un arbre ou pas. 
+Implementer un programme qui indiquera si oui ou non il s'agit d'un arbre.
 
 ## Exemple
 
@@ -41,11 +42,10 @@ Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un
 
 + **Pour récuperer l'entrée:**
 
-  + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md  "python")
-  + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
-  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/smartStack/entreeC.md "C")
-  + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
-  + En R
+  + en [R]
+( "R")
+  + en [Python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md "Python")
+  + en [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
 
 + **Exemple d'une entrée**
   ```
