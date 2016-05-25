@@ -35,6 +35,8 @@ Il est imprudent de soumettre une solution non testée , un guide décrit ci-des
 > - Cliquez ensuite sur *Test* , vous serez invité à selectionner un fichier de test ,puis validez la selection
 > - Le test s'opère , et vous obtiendrez une fenetre affichant le résultat retourné par votre programme.
 
+![Alt text](https://github.com/GRnice/ConcoursJuin/blob/master/PriseEnMain/demoTest.md "démonstration")
+
 Voila , si vous avez tout suivi vous devriez voir une fenetre s'ouvrir avec le résultat de votre solution.
 
 ----------------
