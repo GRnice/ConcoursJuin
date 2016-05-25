@@ -40,7 +40,7 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
   + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
   + En C lienIci
   + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
-  + En R
+  + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
 
 + Exemple d'une entrée
 ```
