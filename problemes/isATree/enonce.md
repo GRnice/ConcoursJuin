@@ -13,7 +13,7 @@ Soit G un arbre à n sommets, il a pour propriétées:
 
 ## Objectif
 
-Implementer un programme qui indiquera si oui ou non il s'agit d'un arbre.
+Implementer un programme qui indiquera si oui ou non un ensemble de sommets et d'arêtes représentent arbre.
 
 ## Exemple
 
@@ -42,8 +42,7 @@ Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un
 
 + **Pour récuperer l'entrée:**
 
-  + en [R]
-( "R")
+  + en [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "R")
   + en [Python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md "Python")
   + en [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
 
