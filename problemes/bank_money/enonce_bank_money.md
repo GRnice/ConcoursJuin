@@ -68,6 +68,7 @@ A present implementez un programme qui traitera l'entrée et affichera à l'ecra
 **La sortie se terminera sur un retour à la ligne**
 
 + 3) BANK-3 , Approfondir
+
 Vous devez à present verifier que un débit peut s'operer si et seulement si (solde du compte - débit >= 0)
 Modifier votre programme en conséquence..
 
