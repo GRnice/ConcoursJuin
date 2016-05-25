@@ -42,10 +42,9 @@ Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un
 
 + **Pour récuperer l'entrée:**
 
-  + en [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "R")
   + en [Python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md "Python")
   + en [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
-  + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
+  + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "R")
 
 + **Exemple d'une entrée**
   ```
