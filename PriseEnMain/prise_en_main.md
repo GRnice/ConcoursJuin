@@ -19,7 +19,7 @@ Nommé pc2team par ses concepteurs , cet outil vous permettra de soumettre vos p
 --------
 #### <i class="icon-upload"></i> Soumettre une solution
 
-Depuis l'onglet **Submit run** sélectionnez le problème que vous souhaitez résoudre , puis le langage de votre solution ('**R**' ici) , cliquez ensuite sur **select** et sélectionnez le fichier contenant votre solution en **R**.
+Depuis l'onglet **Submit run** sélectionnez le problème que vous souhaitez résoudre , puis le langage de votre solution , cliquez ensuite sur **select** et sélectionnez le fichier contenant votre solution.
 Il ne vous restera plus que à cliquer sur **Submit**
 
 ---------
@@ -29,9 +29,9 @@ Il est imprudent de soumettre une solution non testée , un guide décrit ci-des
 
 > **Comment tester ?**
 > 
-> - Récupérez un fichier test ou créez en un , respectez le format des données en vous reférant aux exemples de l'énoncé. (un exemple de fichier de test vous est fourni à l'échauffement.
-> - le nom de votre fichier doit se terminer par un **.in** et non par un .txt !  ```nomDuFichierTest.in```
-> - Enfin depuis l'interface du logiciel selectionnez le problème que vous souhaitez tester , le langage , puis ajouter le fichier.r que vous souhaitez tester
+> - Creez un fichier de test ,un fichier texte par exemple
+> - Completez le en définissant votre propre cas de test pour vérifier le bon fonctionnement de votre programme
+> - Depuis l'interface du logiciel selectionnez le problème que vous souhaitez tester , le langage , puis ajouter la solution que vous souhaitez tester
 > - Cliquez ensuite sur *Test* , vous serez invité à selectionner un fichier de test ,puis validez la selection
 > - Le test s'opère , et vous obtiendrez une fenetre affichant le résultat retourné par votre programme.
 
