@@ -20,7 +20,7 @@ Dans les deux lignes , la première indique le nombre de division que l'armée p
   + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
   + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/smartStack/entreeC.md "C")
   + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
-  + En R
+  + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
 
 + **Exemple d'une entrée**
   ```
