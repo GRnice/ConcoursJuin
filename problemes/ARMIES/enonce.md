@@ -16,8 +16,11 @@ Dans les deux lignes , la première indique le nombre de division que l'armée p
 
 + **Pour récuperer l'entrée:**
 
-  + en Python lien Ici (pas encore bon)
-  + en [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
+  + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md  "python")
+  + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
+  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/smartStack/entreeC.md "C")
+  + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
+  + En R
 
 + **Exemple d'une entrée**
   ```
