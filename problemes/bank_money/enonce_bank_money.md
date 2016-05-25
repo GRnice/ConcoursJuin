@@ -29,14 +29,16 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 ### Sortie
 
-+ Pour chaque instruction vous agirez en fonction.
+Si votre programme récupérait l'entrée ci-dessus , votre programme afficherai le résultat suivant:
 
 ```
   nom_compte:0
   nom_compte:50
   nom_compte:10
   nom_compte:null
+  
 ```
+**La sortie se terminera sur un retour à la ligne**
 
 ## Aspect technique:
 Il existe en tout et pour tout 4 instructions qui sont les suivantes:
