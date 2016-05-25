@@ -53,7 +53,8 @@ L'affichage se **terminera sur un retour à la ligne**
 
 # Exercices:
 
-+ 1) ARM-1 - Résoudre sur papier.
++ **1) ARM-1 - Résoudre sur papier.**
+
 Pour l'entrée donnée :
 ```
 5
@@ -72,6 +73,7 @@ Pour l'entrée donnée :
 Résolvez le problème à la main et implementer un programme qui **affichera uniquement** le résultat obtenu sur papier.
 **N'oubliez pas de terminer l'affichage du résultat par un retour à la ligne.**
 
-+ 2) ARM-2 - Implementer le programme
++ **2) ARM-2 - Implementer le programme**
+
 Cette fois ci implementez un programme qui traitera les entrées , il devra résoudre le problème et afficher le résultat obtenu.
 **N'oubliez pas de terminer l'affichage du résultat par un retour à la ligne.**
