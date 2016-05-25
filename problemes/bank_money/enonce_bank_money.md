@@ -50,6 +50,25 @@ En cas de suppréssion de compte vous fixerez le solde compte à ```null```.
 
 # Exercices:
 
-1) Résoudre le problème énoncé au dessus.
++ 1) BANK-1 , Résoudre le problème sur feuille
+Avec l'entrée donnée ci-dessous:
+```
+CREATECOUNT compte1
+CREDITCOUNT compte1 50
+CREATECOUNT compte2
+CREDITCOUNT compte2 25
+DEBITECOUNT compte1 5
+```
+
+Rédigez un code qui affichera la sortie engendrée par l'entrée.
+**La sortie (l'affichage du résultat) , se terminera sur un retour à la ligne**
+
++ 2) BANK-2 , Implementer l'algorithme
+A present implementez un programme qui traitera l'entrée et affichera à l'ecran le résultat du traitement de l'entrée.
+**La sortie se terminera sur un retour à la ligne**
+
++ 3) BANK-3 , Approfondir
+Vous devez à present verifier que un débit peut s'operer si et seulement si (solde du compte - débit >= 0)
+Modifier votre programme en conséquence..
 
 
