@@ -38,7 +38,7 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 + Pour récuperer l'entrée:
   + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md  "python")
   + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
-  + En C lienIci
+  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeC.md "C")
   + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
   + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
 
