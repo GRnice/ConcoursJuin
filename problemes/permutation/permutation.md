@@ -6,6 +6,8 @@ Il y a **permutation ambigüe** lorsqu'on applique une permutation inverse à un
 
 ## Objectif
 On vous donne deux listes d'entiers de même taille, le but est de savoir si une liste est permutation ambigüe ou pas de l'autre liste.
+Si une liste est permutation ambigüe , votre programme affichera ```TRUE```
+Sinon il affichera ```FALSE```
 
 
 ## Exemple
@@ -19,7 +21,9 @@ On vous donne deux listes d'entiers de même taille, le but est de savoir si une
 **output**
   ```
   TRUE
+  
   ```
+  
 La deuxieme liste est obtenue par **permutation inverse** de la premiere liste,  de plus on observe qu'elles sont identiques il y a donc **permutation ambigüe**
 
 La première ligne représente la liste L1 et la deuxième la liste L2.
@@ -50,11 +54,13 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 ### Sortie
 
-+ Pour chaque instruction vous agirez en fonction.
++ Elle est caractérisée soit par une sortie à ```TRUE``` ou soit à ```FALSE```
 
 	```
    TRUE
+   
 	```
+**L'affichera se terminera sur un retour à la ligne**
     
 ## ASPECTS TECHNIQUES
 
@@ -72,6 +78,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
   
      ```R
      TRUE
+     
      ```
      La première ligne représente la liste L1 et la deuxième la liste L2.
      +	On peut observer que le premier élément de L1 est un **deux** d'indice **1**, on retouve donc à l'indice **2** de L2 l'élément **un**.
@@ -102,6 +109,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 		
 			```
 			FALSE 
+			
 			 ```
 			 
 	+ ***A vous de jouer avec cet input***
@@ -130,6 +138,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 		
 			```
 			TRUE 
+			
 			 ```
 
 
@@ -150,6 +159,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 		
 			```
 			TRUE 
+			
 			 ```
 
 
