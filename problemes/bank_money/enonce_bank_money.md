@@ -1,13 +1,13 @@
 # BANK MONEY
 
 ## Problème
-Dans une liste de commande d'un système de gestion de compte bancaire, vous allez recevoir des ordres de virement et allez devoir les effectuer.
+Dans une liste de commandes d'un système de gestion de compte bancaire, vous allez recevoir des ordres de virement et allez devoir les effectuer.
 
 ## Objectif
 L'objectif est donc d'**obéir** aux ordres qui sont donnés. Pour cela vous allez devoir gérer la création et la cloture de compte, ainsi que le débit et le crédit d'argent sur des comptes.
 
 ## Entrée & sortie:
-Votre programme devra traiter les paramètres donnés en entrée, et fournir une solution via une fonction d'affichage...
+Votre programme devra traiter les paramètres donnés en entrée, et fournir une réponse via une fonction d'affichage...
 
 ### Entrée
 
@@ -42,8 +42,8 @@ Si votre programme récupére l'entrée ci-dessus , votre programme affichera le
 
 ## Aspect technique:
 Il existe en tout et pour tout 4 instructions qui sont les suivantes:
-  + ```CREATECOUNT nom_compte```: crée un compte qui a pour nom ```nom_compte```
-  + ```DELETECOUNT nom_compte```: supprime le compte qui a pour nom ```nom_compte```
+  + ```CREATECOUNT nom_compte```: crer un compte qui a pour nom ```nom_compte```
+  + ```DELETECOUNT nom_compte```: supprimer le compte qui a pour nom ```nom_compte```
   + ```CREDITCOUNT nom_compte somme```: crédite ```somme``` au compte qui a pour nom ```nom_compte```
   + ```DEBITECOUNT nom_compte somme```: débite ```somme``` au compte qui a pour nom ```nom_compte```
 
@@ -71,13 +71,13 @@ Rédigez un code qui affichera la sortie engendrée par l'entrée.
 
 + **2) BANK-2 , Implementer l'algorithme**
 
-A present implementez un programme qui traitera l'entrée et affichera à l'ecran le résultat du traitement de l'entrée.
+A présent implementez un programme qui traitera l'entrée et affichera à l'ecran le résultat.
 **La sortie se terminera sur un retour à la ligne**
 
 + **3) BANK-3 , Approfondir**
 
-Vous devez à present verifier que un débit peut s'operer si et seulement si (solde du compte - débit >= 0)
-, si l'operation est impossible à réaliser , vous afficherez ```ERROR```.
+Vous devez à present vérifier qu'un débit peut s'operer si et seulement si : (solde du compte - débit >= 0)
+, si l'operation est impossible à réaliser , vous afficherez un simple ```ERROR```.
 Modifier votre programme en conséquence..
 
 
