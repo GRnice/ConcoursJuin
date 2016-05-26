@@ -106,13 +106,13 @@ PRINTSTACK  # afficher le contenu de la smartStack
     
      l'affichage se terminera sur un retour à la ligne
     
-    + 3) **SSA3 - Approfondir**
++ 3) **SSA3 - Approfondir**
     
     A présent on souhaite ajouter une instruction qui ajoute à la base de la SmartStack une instruction ```BASEPUSH```
     
-    + Exemple
+  + Exemple
     
-      + Entrée:
+    + Entrée:
       ```
       6
       PUSH 1
@@ -123,7 +123,7 @@ PRINTSTACK  # afficher le contenu de la smartStack
       PRINTSTACK
       ```
       
-      + Sortie:
+    + Sortie:
       ```
       0 1 2
       1 2
