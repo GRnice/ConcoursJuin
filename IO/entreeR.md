@@ -9,12 +9,12 @@ Le code donné ci-dessous recupère pour vous les paramètres necessaires pour r
   suiteNombre=scan(file=flux, what=type, nline=L, quiet=TRUE)
   ```
   
-  **example**: récuprérer deux lignes composée d'entiers:
+  **example**: récuprérer les deux lignes premieres lignes composées d'entiers:
   
   ```R  
   flux=file("stdin","r")
   L1=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
-  L2=scan(file=flux, what=integer(), nline=2, quiet=TRUE)
+  L2=scan(file=flux, what=integer(), nline=1, quiet=TRUE)
   ```
   
 + **Pour récupérer toutes les lignes:**
