@@ -47,7 +47,7 @@ PRINTSTACK  # afficher le contenu de la smartStack
 ### Sortie
 + La commande ```PRINTSTACK``` engendrera l'affichage du contenu de la smartStack sur l'écran.
 + 
-A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , la sortie devra ressembler à cela:
+A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , la sortie devra afficher cela:
 
 ```
 4 0 9 6 12
@@ -56,6 +56,30 @@ A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , 
 
 ```
 le résultat se termine avec un retour à la ligne
+
+## Informations supplementaires:
+
+Si on vous demande d'afficher le contenu de la pile est qu'elle est vide vous ferez un simple retour à la ligne.
+
++ Exemple
+
+  + Entrée
+```
+PUSH 5
+PRINTSTACK
+POP
+PRINTSTACK
+PUSH 4
+PRINTSTACK
+```
+
+  + Sortie
+  ```
+  5
+  
+  4
+  
+  ```
 
 # Exercices:
 
