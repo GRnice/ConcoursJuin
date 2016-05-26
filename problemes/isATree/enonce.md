@@ -42,9 +42,11 @@ Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un
 
 + **Pour récuperer l'entrée:**
 
-  + en [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "R")
-  + en [Python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md "Python")
-  + en [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
+  + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md  "python")
+  + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
+  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/smartStack/entreeC.md "C")
+  + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
+  + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
 
 + **Exemple d'une entrée**
   ```
@@ -61,11 +63,13 @@ Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un
 
 ### Sortie
 
-+ Pour chaque instruction vous agirez en fonction.
++ Si votre programme récupère l'entrée donnée ci-dessus , votre programme retournera
 
-	```
-   FALSE
-	```
+```
+FALSE
+   
+```
+**La sortie se terminera sur un retour à la ligne**
 
 # Exercices
 
@@ -91,6 +95,7 @@ Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un
 		
 			```
 			TRUE 
+			
 			 ```
 			 
 	+ ***A vous de jouer avec cet input***

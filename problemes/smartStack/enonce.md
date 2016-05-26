@@ -17,9 +17,9 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 + Pour récuperer l'entrée:
   + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md  "python")
   + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
-  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/smartStack/entreeC.md "C")
+  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeC.md "C")
   + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
-  + En R
+  + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
 
 + Exemple d'une entrée
 les instructions doivent etre éxécutées dans **l'ordre**.
@@ -47,7 +47,7 @@ PRINTSTACK  # afficher le contenu de la smartStack
 ### Sortie
 + La commande ```PRINTSTACK``` engendrera l'affichage du contenu de la smartStack sur l'écran.
 + 
-A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , la sortie devra ressembler à cela:
+A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , la sortie devra afficher cela:
 
 ```
 4 0 9 6 12
@@ -56,6 +56,30 @@ A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , 
 
 ```
 le résultat se termine avec un retour à la ligne
+
+## Informations supplementaires:
+
+Si on vous demande d'afficher le contenu de la pile et qu'elle est vide vous ferez un simple retour à la ligne.
+
++ Exemple
+
+  + Entrée
+```
+PUSH 5
+PRINTSTACK
+POP
+PRINTSTACK
+PUSH 4
+PRINTSTACK
+```
+
+  + Sortie
+  ```
+  5
+  
+  4
+  
+  ```
 
 # Exercices:
 
@@ -106,13 +130,13 @@ PRINTSTACK  # afficher le contenu de la smartStack
     
      l'affichage se terminera sur un retour à la ligne
     
-    + 3) **SSA3 - Approfondir**
++ 3) **SSA3 - Approfondir**
     
     A présent on souhaite ajouter une instruction qui ajoute à la base de la SmartStack une instruction ```BASEPUSH```
     
-    + Exemple
+  + Exemple
     
-      + Entrée:
+    + Entrée:
       ```
       6
       PUSH 1
@@ -123,7 +147,7 @@ PRINTSTACK  # afficher le contenu de la smartStack
       PRINTSTACK
       ```
       
-      + Sortie:
+    + Sortie:
       ```
       0 1 2
       1 2

@@ -17,6 +17,7 @@ Le but de cet exercice est de manipuler ces occurences afin de former un nouveau
 **Output**
   ```
    1431
+   
   ```
   
 Dans cette exemple nous pouvons voir qu'il y a **une** occurence du chiffre 0, **quatre** occurences du chiffre 1, **trois** du chiffre 2 et **une** occurence de 9
@@ -29,12 +30,16 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 + **Pour récuperer l'entrée:**
 
-  + en Python lien Ici (pas encore bon)
-  + en [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
+  + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md  "python")
+  + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
+  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeC.md "C")
+  + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
+  + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
 
 + **Exemple d'une entrée**
   ```
    5412
+   
   ```
 
 ### Sortie
@@ -43,7 +48,9 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 	```
    1111
+   
 	```
+**La sortie se terminera sur un retour à la ligne**
 
 
 # Exercices:
@@ -66,6 +73,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 	    
 		    ```
 		   1531 
+		   
 		    ```
 		 
 	+ ***A vous de jouer avec cet input***
@@ -91,6 +99,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 		+ **Output**
 			```
 			532
+			
 			```
 
 

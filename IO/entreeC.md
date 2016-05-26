@@ -10,8 +10,9 @@ int main (void)
 {
   char buf[256]; // une ligne n'excedera jamais 256 caracteres.
   int i = 0;
-  while (fgets (buf, sizeof(buf), stdin)) {
-    // line est la ième ligne de l'entrée
+  while (fgets (buf, sizeof(buf), stdin))
+  {
+    // buf contient la ième ligne
     i++;
   }
   if (ferror(stdin)) {

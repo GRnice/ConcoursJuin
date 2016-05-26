@@ -38,9 +38,9 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 + Pour récuperer l'entrée:
   + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md  "python")
   + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
-  + En C lienIci
+  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeC.md "C")
   + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
-  + En R
+  + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
 
 + Exemple d'une entrée
 ```
@@ -67,8 +67,9 @@ A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , 
 
 # Exercices
 
-+ 1) QT1 - Exercice préliminaire sur feuille
-+ 
++ **1) QT1 - Exercice préliminaire sur feuille**
+
+
 Envoyez un code affichant le résultat des deux instructions en fonction de la composition de l'arbre donné ci-dessous , l'affichage se terminera sur un retour à la ligne.
 
 Voici les instructions:
@@ -84,5 +85,6 @@ DIST 4 6 # afficher la plus courte distance entre ces deux noeuds
 KTH 4 6 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers le sommet 6
 ```
 
-+ 2) QT2 - Coder l'algorithme
-Ecrivez un code qui appliquera les instructions passés en paramètre.
++ **2) QT2 - Coder l'algorithme**
+
+Ecrivez un code qui appliquera les instructions passés en paramètre et affichera un résultat correct.
