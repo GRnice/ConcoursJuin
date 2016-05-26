@@ -3,7 +3,7 @@
 ## Code 
 Le code donné ci-dessous recupère pour vous les paramètres necessaires pour résoudre les problèmes
 
-+ **Pour lire la ligne L de l'entrée standard:**
++ **Pour lire L lignes de l'entrée standard:**
   ```R
   flux=file("stdin","r")
   suiteNombre=scan(file=flux, what=type, nline=L, quiet=TRUE)
