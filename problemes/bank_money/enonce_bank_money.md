@@ -77,6 +77,7 @@ A present implementez un programme qui traitera l'entrée et affichera à l'ecra
 + **3) BANK-3 , Approfondir**
 
 Vous devez à present verifier que un débit peut s'operer si et seulement si (solde du compte - débit >= 0)
+, si l'operation est impossible à réaliser , vous afficherez ```ERROR```.
 Modifier votre programme en conséquence..
 
 
