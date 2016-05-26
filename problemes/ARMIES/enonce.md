@@ -4,13 +4,13 @@
 Dans une liste de nombres représentant la puissant de feu de 2 armées qui s'affrontent, vous allez devoir trouver le vainqueur de la bataille!
 
 ## Objectif
-L'objectif est donc de**détecter** le vainqueur en analysant la puissance de feu de ces divisions. Pour cela vous allez devoir additionner la puissance de feu de toutes les divisions de l'armée.
+L'objectif est d'identifier **détecter** le vainqueur en evaluant la puissance de feu des divisions de chaque faction. Pour cela vous allez devoir additionner la puissance de feu de toutes les divisions de l'armée.
 
 ## Entrée & sortie:
 Votre programme devra traiter les paramètres donnés en entrée, et fournir une solution via une fonction d'affichage...
 
-Chaque bataille est rerésentée par 4 lignes dans le fichier. Pour chaque chaque ensemble de 4 lignes, les 2 premieres lignes concernent l'equipe "Zerg" , et les deux dernieres l'équipe "Terran".
-Dans les deux lignes , la première indique le nombre de division que l'armée possède, la ligne suivante indique pour chaque division sa puissance de feu.
+Chaque bataille est rerésentée par 4 lignes dans le fichier. Pour chaque chaque ensemble de 4 lignes, les 2 premieres lignes concernent l'equipe "Zerg" , et les 2 dernieres l'équipe "Terran".
+Dans les 2 lignes , la première indique le nombre de division que l'armée possède, la ligne suivante indique pour chaque division sa puissance de feu.
 
 ### Entrée
 
@@ -40,7 +40,7 @@ Dans les deux lignes , la première indique le nombre de division que l'armée p
 
 ### Sortie
 
-+ Pour chaque bataille, les 2 premières lignes représentent l'armée nommée "Zerg" et les 2 suivantes représentent l'armée nommée "Terran". Il suffira juste d'afficher le nom du vainqueur, en cas d'égalité vous afficherez "Draw". 
++ Pour chaque bataille, les 2 premières lignes représentent l'armée nommée "Zerg" et les 2 suivantes représentent l'armée nommée "Terran". Il suffira juste d'afficher le nom du vainqueur, en cas d'égalité vous afficherez "Draw".
 
 Si votre programme reçoit l'entrée vue ci-dessus , votre programme devra afficher les messages suivants sur l'écran
 ```
