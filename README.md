@@ -4,6 +4,9 @@
 ## - **Prise en main**:
 + [Prise en main](https://github.com/GRnice/ConcoursJuin/tree/master/PriseEnMain "Prise en main")
 
+## - **Scoreboard**
++ [Scoreboard](http://concours-prog-unice.890m.com/receivers/score.html "sc")
+
 ## - Liste des exercices:
 + [ARMIES](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/ARMIES/enonce.md "ARMIES")
 + [BANK](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/bank_money/enonce_bank_money.md "BANK")
