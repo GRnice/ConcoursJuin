@@ -59,7 +59,7 @@ le résultat se termine avec un retour à la ligne
 
 ## Informations supplementaires:
 
-Si on vous demande d'afficher le contenu de la pile est qu'elle est vide vous ferez un simple retour à la ligne.
+Si on vous demande d'afficher le contenu de la pile et qu'elle est vide vous ferez un simple retour à la ligne.
 
 + Exemple
 
