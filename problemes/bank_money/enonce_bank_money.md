@@ -1,10 +1,10 @@
 # BANK MONEY
 
 ## Problème
-Dans une liste de commande d'un système de gestion de compte bancaire, vous allez recevoir des ordres de virement et aller devoir les effectuer.
+Dans une liste de commande d'un système de gestion de compte bancaire, vous allez recevoir des ordres de virement et allez devoir les effectuer.
 
 ## Objectif
-L'objectif est donc d'**obéir** aux ordres qui sont donnés. Pour cela vous allez devoir gérer la création et cloture de compte, ainsi que le débit et le crédit d'argent sur des comptes.
+L'objectif est donc d'**obéir** aux ordres qui sont donnés. Pour cela vous allez devoir gérer la création et la cloture de compte, ainsi que le débit et le crédit d'argent sur des comptes.
 
 ## Entrée & sortie:
 Votre programme devra traiter les paramètres donnés en entrée, et fournir une solution via une fonction d'affichage...
@@ -29,7 +29,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 ### Sortie
 
-Si votre programme récupérait l'entrée ci-dessus , votre programme afficherai le résultat suivant:
+Si votre programme récupére l'entrée ci-dessus , votre programme affichera le résultat suivant:
 
 ```
   nom_compte:0
@@ -47,7 +47,7 @@ Il existe en tout et pour tout 4 instructions qui sont les suivantes:
   + ```CREDITCOUNT nom_compte somme```: crédite ```somme``` au compte qui a pour nom ```nom_compte```
   + ```DEBITECOUNT nom_compte somme```: débite ```somme``` au compte qui a pour nom ```nom_compte```
 
-Pour chaque opération, vous devez afficher le nom du compte sur lequel est réalisé une opération et son solde spéaré par ```:```.
+Pour chaque opération, vous devez afficher le nom du compte sur lequel est réalisé une opération et son solde séparé par ```:```.
 
 En cas de création de compte vous fixerez le solde du compte à 0.
 
