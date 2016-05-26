@@ -61,11 +61,13 @@ Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un
 
 ### Sortie
 
-+ Pour chaque instruction vous agirez en fonction.
++ Si votre programme récupère l'entrée donnée ci-dessus , votre programme retournera
 
-	```
-   FALSE
-	```
+```
+FALSE
+   
+```
+**La sortie se terminera sur un retour à la ligne**
 
 # Exercices
 
