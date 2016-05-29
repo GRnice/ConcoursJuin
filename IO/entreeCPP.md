@@ -4,8 +4,14 @@
 Le code donné ci-dessous recupère pour vous les paramètres necessaires pour résoudre les problèmes
 
 ```
+#include <string.h>
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
 string input_line;
-std::vector<std::string> vect;
+vector<string> vect;
 
 while (cin)
 {
