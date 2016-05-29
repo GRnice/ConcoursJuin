@@ -25,4 +25,4 @@ Ouvrez le dossier pc2 où vous trouverez un fichier de configuration nommé *pc2
 
 ### **Terminé !**
 
-A présent le dispositif est posé , si vous souhaitez créer un concours , il est necessaire de créer un dossier car lors de lancement du concours TOUS les fichiers log seront écrits dans le dossier d'où vous avez instancié le concours.
+A présent le dispositif est posé , si vous souhaitez créer un concours , il est necessaire de créer un dossier car lors de lancement du concours TOUS les fichiers log seront écrits dans le dossier d'où vous avez instancié le concours .
