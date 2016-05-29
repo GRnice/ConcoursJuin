@@ -15,7 +15,7 @@ Inserez le dans votre code , la variable ```data``` est un tableau de Strings.
 Pour vous débarasser des caracteres invisibles contenu dans chaque ligne de ```data``` , procedez ainsi.
 
 ```
-# avant la boucle data contient des caracteres invisibles (caractère de saut de ligne par exemple)
+# avant la boucle , data contient des caracteres invisibles (caractère de saut de ligne par exemple)
 for i in range(len(data)):
  data[i] = data[i].rstrip()
 
