@@ -9,4 +9,5 @@ data = sys.stdin.readlines()
 ```
 
 Inserez le dans votre code , la variable ```data``` est un tableau de Strings.
+
 **Note**: /!\ Prenez garde aux caracteres de fin de ligne. /!\
