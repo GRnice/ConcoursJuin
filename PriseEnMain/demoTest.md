@@ -41,7 +41,7 @@ Admettons vous avez crée un dossier pour ce probleme , votre programme se nomme
 Selectionnez le problème à résoudre , ainsi que le langage , puis cliquer sur ```select``` et selectionnez votre code , en l'occurence ```sum.py ```
 ![Alt text](https://github.com/GRnice/ConcoursJuin/blob/master/PriseEnMain/StepTwoTest.PNG?raw=true "")
 
-Admettons que votre ressemble à ceci , il recupere l'entrée , boucle dessus , fait la somme et affiche le résultat
+Admettons que votre code ressemble à ceci , il recupere l'entrée , boucle dessus , fait la somme et affiche le résultat
 ![Alt text](https://github.com/GRnice/ConcoursJuin/blob/master/PriseEnMain/StepThreeTest.PNG?raw=true "")
 
 Ouvrez le fichier ```test.txt``` et rédigez votre propre cas de test , dans ce cas-ci , votre programme devra faire la somme de tout ces nombres , ce qui donnera normalement **55**
