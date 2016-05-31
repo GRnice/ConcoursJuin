@@ -7,6 +7,11 @@
 ## - **Scoreboard**
 + [Scoreboard](http://concours-prog-unice.890m.com/receivers/score.html "sc")
 
+## - **Compilation**
+
++ Pour les programmes en C nous compilerons vos programmes avec cette commande : gcc -std=c99 -o executable code.c
++ Pour les programmes en C++ nous compilerons vos programmes avec cette commande : g++ -std=c++11 -o executable code.cpp
+
 ## - Liste des exercices:
 + [ARMIES](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/ARMIES/enonce.md "ARMIES")
 + [BANK](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/bank_money/enonce_bank_money.md "BANK")
