@@ -130,7 +130,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 		+ **Input**
 		
-			```
+			```R
 			6
 			1 2 3 5 4 6
     		1 2 3 5 4 6
@@ -138,7 +138,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 		+ **Output**
 		
-			```
+			```R
 			TRUE 
 			
 			 ```
@@ -152,7 +152,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 		+ **Input**
 		
-			```
+			```R
 			4
 	       1 4 3 2 
    	    5 11 9 7
@@ -160,7 +160,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 		+ **Output**
 		
-			```
+			```R
 			TRUE 
 			
 			 ```
