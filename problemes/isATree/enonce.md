@@ -108,5 +108,10 @@ FALSE
             2 4
             1 5
 			```
+
+	**La sortie se terminera sur un retour à la ligne**
+	
             
 + **2) IST-2 - A partir des couples de sommets donnés en entrée, ecrire un code qui détermine si ils représentent un arbre ou pas.**
+
+**La sortie se terminera sur un retour à la ligne**
