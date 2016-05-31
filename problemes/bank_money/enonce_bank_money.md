@@ -42,7 +42,7 @@ Si votre programme récupére l'entrée ci-dessus , votre programme affichera le
 
 ## Aspect technique:
 Il existe en tout et pour tout 4 instructions qui sont les suivantes:
-  + ```CREATECOUNT nom_compte```: crer un compte qui a pour nom ```nom_compte```
+  + ```CREATECOUNT nom_compte```: creer un compte qui a pour nom ```nom_compte```
   + ```DELETECOUNT nom_compte```: supprimer le compte qui a pour nom ```nom_compte```
   + ```CREDITCOUNT nom_compte somme```: crédite ```somme``` au compte qui a pour nom ```nom_compte```
   + ```DEBITECOUNT nom_compte somme```: débite ```somme``` au compte qui a pour nom ```nom_compte```
