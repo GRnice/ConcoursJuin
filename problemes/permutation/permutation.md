@@ -1,13 +1,13 @@
 #PERMUTATION AMBIGÜE
 
 ## Problème
-**Une permutation inverse** d'un ensemble X est une bijection de X sur lui-même où chaque élement i de cet ensemble se retrouve à la i-éme position du nouvel ensemble obtenue.
-Il y a **permutation ambigüe** lorsqu'on applique une permutation inverse à un ensemble X et que l'ensemble X' obtenue est le même que l'ensemble de départ X.
+**Une permutation inverse** d'un ensemble X est une bijection de X sur lui-même où chaque élement i de cet ensemble se retrouve à la i-éme position du nouvel ensemble obtenu.
+Il y a **permutation ambigüe** lorsqu'on applique une permutation inverse à un ensemble X et que l'ensemble X' obtenu est le même que l'ensemble de départ X.
 
 ## Objectif
 On vous donne deux listes d'entiers de même taille, le but est de savoir si une liste est permutation ambigüe ou pas de l'autre liste.
-Si une liste est permutation ambigüe , votre programme affichera ```TRUE```
-Sinon il affichera ```FALSE```
+Si une liste est permutation ambigüe , votre programme affiche ```TRUE```
+Sinon il affiche ```FALSE```
 
 
 ## Exemple
@@ -25,9 +25,9 @@ Sinon il affichera ```FALSE```
   
   ```
   
-La deuxieme liste est obtenue par **permutation inverse** de la premiere liste,  de plus on observe qu'elles sont identiques il y a donc **permutation ambigüe**
+La deuxieme liste est obtenue par **permutation inverse** de la premiere liste, de plus on observe qu'elles sont identiques il y a donc **permutation ambigüe**
 
-La première ligne correspond au nombre d'élément contenue dans chaque listes.
+La première ligne correspond au nombre d'élément contenu dans chaque listes.
 La deuxième ligne représente la liste L1 et la deuxième la liste L2.
   +	On peut observer que le premier élément de L1 est un **un** d'indice **1**, on retouve donc à l'indice **1** de L2 l'élément **un**.
   +	Le deuxième élément de L1 est un **quatre** d'indice **2**, on retrouve donc à l'indice **4** de L2 l'élément **deux**.
@@ -57,13 +57,13 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 ### Sortie
 
-+ Elle est caractérisée soit par une sortie à ```TRUE``` ou soit à ```FALSE```
++ Votre programme peut affichier uniquement ```TRUE``` ou bien ```FALSE```
 
 	```
    TRUE
    
 	```
-**L'affichera se terminera sur un retour à la ligne**
+**L'affichage se terminera par un retour à la ligne**
     
 ## ASPECTS TECHNIQUES
 
@@ -84,7 +84,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
      TRUE
      
      ```
-     La première ligne correspond au nombre d'élément contenue dans chaque listes.
+     La première ligne correspond au nombre d'élément contenu dans chaque listes.
      La deuxième ligne représente la liste L1 et la deuxième la liste L2.
      +	On peut observer que le premier élément de L1 est un **deux** d'indice **1**, on retouve donc à l'indice **2** de L2 l'élément **un**.
      +	Le deuxième élément de L1 est un **trois** d'indice **2**, on retrouve donc à l'indice **3** de L2 l'élément **deux**.
@@ -94,7 +94,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 # Exercices:
 
-+ **1) PERM-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code du language qu'il vous plait.**
++ **1) PERM-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code du language de votre de choix.**
 	+ **Exemple**
 
 		+ **Input**
@@ -104,13 +104,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 			1 4 5 2 3 6
 			1 2 3 4 5 6
 			```
-		
-		+ **Code JAVA**    
-		
-			```
-			System.out.println("FALSE"); 
-			
-			```
+
 		+ **Output**
 		
 			```
@@ -129,8 +123,8 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 			```
  
 + **2) PERM-2 - Permutation ambigüe I:
-	Ecrivez un code , qui vérifie si la liste L2 est la liste obtenue par permutation ambigüe de L1, L1 et L2 toutes deux récupérées en entrée.
-    Renvoyez ```TRUE``` ou ```FALSE```**
+	Ecrivez un code , qui vérifi si la liste L2 est la liste obtenue par permutation ambigüe de L1, L1 et L2 toutes deux récupérées en entrée.
+    Affichez ```TRUE``` ou ```FALSE```**
 
 	+ **Exemple**
 
@@ -151,7 +145,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 
 + **3)  PERM-3 - Permutation ambigüe II:
-	Maintenant on applique sur chaqun des éléments de L2 **```f(x) = 2 * x + 3```**, écrivez cette fois ci un code R, qui à partir des listes L1 et L2 récupérées entrée, vérifie si L2 avant application de f(x) est la liste obtenue par permutation ambigüe de L1.
+	Maintenant on applique sur chaque éléments de L2 **```f(x) = 2 * x + 3```**, écrivez cette fois ci un code, qui à partir des listes L1 et L2 récupérées en entrée, vérifi si L2 avant application de f(x) est la liste obtenue par permutation ambigüe de L1.
      Renvoyez ```TRUE``` ou ```FALSE```**
 
 	+ **Exemple**
