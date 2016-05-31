@@ -6,8 +6,8 @@ Il y a **permutation ambigüe** lorsqu'on applique une permutation inverse à un
 
 ## Objectif
 On vous donne deux listes d'entiers de même taille, le but est de savoir si une liste est permutation ambigüe ou pas de l'autre liste.
-Si une liste est permutation ambigüe , votre programme affiche ```R TRUE```
-Sinon il affiche ```R FALSE```
+Si une liste est permutation ambigüe , votre programme affiche ```TRUE```
+Sinon il affiche ```FALSE```
 
 
 ## Exemple
@@ -20,7 +20,7 @@ Sinon il affiche ```R FALSE```
   ```
   
 **output**
-  ```
+  ```R
   TRUE
   
   ```
@@ -49,7 +49,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
   + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
 
 + **Exemple d'une entrée**
-  ```
+  ```R
    4
    1 4 3 2 
    1 4 3 2
@@ -59,7 +59,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 + Votre programme peut affichier uniquement ```TRUE``` ou bien ```FALSE```
 
-	```
+	```R
    TRUE
    
 	```
@@ -107,7 +107,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 		+ **Output**
 		
-			```
+			```R
 			FALSE 
 			
 			 ```
