@@ -14,6 +14,7 @@ Sinon il affichera ```FALSE```
 
 **input**
   ```
+   4 
    1 4 3 2 
    1 4 3 2
   ```
@@ -48,6 +49,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 + **Exemple d'une entrée**
   ```
+   4
    1 4 3 2 
    1 4 3 2
   ```
@@ -70,6 +72,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
   + **Input**
   
      ```R
+     5
      2 3 4 5 1 
      5 1 2 3 4
      ```
@@ -95,6 +98,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 		+ **Input**
 		
 			```R
+			6
 			1 4 5 2 3 6
 			1 2 3 4 5 6
 			```
@@ -117,6 +121,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 		+ **Input**
 			
 			```R
+			10
 			3 8 5 10 9 4 6 1 7 2
 			8 10 1 6 3 2 9 7 5 4
 			```
@@ -130,6 +135,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 		+ **Input**
 		
 			```
+			6
 			1 2 3 5 4 6
     		1 2 3 5 4 6
 			```
@@ -151,6 +157,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 		+ **Input**
 		
 			```
+			4
 	       1 4 3 2 
    	    5 11 9 7
 			```
