@@ -15,7 +15,7 @@ Nous vous demanderons d'évaluer des instructions de la forme suivante :
 ## Exemple
 
 ```
-6 // les 6 lignes en dessous sont dediées à la construction de l'arbre , celles plus en bas seront des instructions de type {DIST , KTH , DONE}
+5 // les 5 lignes en dessous sont dediées à la construction de l'arbre , celles plus en bas seront des instructions de type {DIST , KTH , DONE}
 1 2 // sommet 1 connecté au sommet 2
 2 4 // sommet 2 connecté au sommet 4
 2 5 // ...
@@ -44,7 +44,7 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 
 + Exemple d'une entrée
 ```
-6 # 
+5 # 
 1 2  # noeud 1 connecté au noeud 2 , le pere est le membre de gauche , dans ce cas 1 est l'ancetre de 2
 2 3  # noeud 2 connecté au noeud 3
 3 4  # ...
@@ -78,14 +78,15 @@ Envoyez un code affichant le résultat des deux instructions en fonction de la c
 Voici les instructions:
 
 ```
-6 # nombre de noeuds
-1 2  # noeud 1 connecté au noeud 2 , le pere est le membre de gauche , dans ce cas 1 est l'ancetre de 2
-2 3  # noeud 2 connecté au noeud 3
-3 4  # ...
-1 5  # ...
-5 6  # ...
-DIST 4 6 # afficher la plus courte distance entre ces deux noeuds
-KTH 4 6 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers le sommet 6
+4 # nombre de lignes
+10 2
+2 6
+10 5
+5 11
+5 78
+6 7
+DIST 11 2 # afficher la plus courte distance entre ces deux noeuds
+KTH 11 2 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers le sommet 6
 DONE
 ```
 
