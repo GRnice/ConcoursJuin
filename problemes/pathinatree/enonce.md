@@ -44,7 +44,7 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 
 + Exemple d'une entrée
 ```
-6 # nombre de noeuds
+6 # les 6 lignes en dessous sont dediées à la construction de l'arbre , celles plus en bas seront des instructions {DIST KTH DONE}
 1 2  # noeud 1 connecté au noeud 2 , le pere est le membre de gauche , dans ce cas 1 est l'ancetre de 2
 2 3  # noeud 2 connecté au noeud 3
 3 4  # ...
