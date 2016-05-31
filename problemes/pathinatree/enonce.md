@@ -88,3 +88,7 @@ KTH 4 6 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers
 + **2) PIF-2 - Coder l'algorithme**
 
 Ecrivez un code qui appliquera les instructions passés en paramètre et affichera un résultat correct.
+
+Pensez aux cas extremes...
+
+**La sortie se terminera sur un retour à la ligne**
