@@ -90,7 +90,6 @@ Envoyez un code affichant simplement le contenu de la smartStack , l'affichage s
 Voici les instructions à appliquer:
 
 ```
-10          # nombre d'instructions a éxécuter dans l'ordre
 PUSH 5      # ajouter 5
 PUSH 0      # ajouter 0
 PUSH 5      # ajouter 5
