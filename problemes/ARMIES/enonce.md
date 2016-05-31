@@ -9,9 +9,9 @@ L'objectif est de **détecter** le vainqueur en evaluant la puissance de feu des
 ## Entrée & sortie:
 Votre programme doit traiter les paramètres donnés en entrée, et fournir une solution via une fonction d'affichage...
 
- + La guerre est composé de plusieurs batailles, chaque bataille est représentée par 4 lignes dans le fichier. 
- + Pour chaque bataille, les 2 premières lignes concernent l'armée "Zerg" , et les 2 dernières l'armée "Terran".
- + Pour chaque armée , la première ligne indique le nombre de divisions qu'elle possède, la ligne suivante indique pour chaque division sa puissance de feu.
+ La guerre est composé de plusieurs batailles, chaque bataille est représentée par 4 lignes dans le fichier. 
+ Pour chaque bataille, les 2 premières lignes concernent l'armée "Zerg" , et les 2 dernières l'armée "Terran".
+ Pour chaque armée , la première ligne indique le nombre de divisions qu'elle possède, la ligne suivante indique pour chaque division sa puissance de feu.
 
 ### Entrée
 
