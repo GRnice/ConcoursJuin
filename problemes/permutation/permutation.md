@@ -27,7 +27,8 @@ Sinon il affichera ```FALSE```
   
 La deuxieme liste est obtenue par **permutation inverse** de la premiere liste,  de plus on observe qu'elles sont identiques il y a donc **permutation ambigüe**
 
-La première ligne représente la liste L1 et la deuxième la liste L2.
+La première ligne correspond au nombre d'élément contenue dans chaque listes.
+La deuxième ligne représente la liste L1 et la deuxième la liste L2.
   +	On peut observer que le premier élément de L1 est un **un** d'indice **1**, on retouve donc à l'indice **1** de L2 l'élément **un**.
   +	Le deuxième élément de L1 est un **quatre** d'indice **2**, on retrouve donc à l'indice **4** de L2 l'élément **deux**.
   +	Le troisième élément de L1 est un **trois** d'indice **3**, on retrouve donc à l'indice **3** de L2 l'élément **trois**.
@@ -83,7 +84,8 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
      TRUE
      
      ```
-     La première ligne représente la liste L1 et la deuxième la liste L2.
+     La première ligne correspond au nombre d'élément contenue dans chaque listes.
+     La deuxième ligne représente la liste L1 et la deuxième la liste L2.
      +	On peut observer que le premier élément de L1 est un **deux** d'indice **1**, on retouve donc à l'indice **2** de L2 l'élément **un**.
      +	Le deuxième élément de L1 est un **trois** d'indice **2**, on retrouve donc à l'indice **3** de L2 l'élément **deux**.
      +	Le troisième élément de L1 est un **quatre** d'indice **3**, on retrouve donc à l'indice **4** de L2 l'élément **trois**.
