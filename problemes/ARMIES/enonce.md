@@ -41,7 +41,7 @@ Votre programme doit traiter les paramètres donnés en entrée, et fournir une 
 
 ### Sortie
 
-+ Pour chaque bataille, affichez le nom du vainqueur, en cas d'égalité affichez "Draw".
++ Pour chaque bataille affichez le nom du vainqueur, en cas d'égalité affichez "Draw".
 
 Si votre programme reçoit l'entrée vue ci-dessus , votre programme doit afficher les messages suivants sur l'écran
 ```
