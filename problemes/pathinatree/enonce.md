@@ -1,7 +1,7 @@
 # PathInATree
 
 ## Probleme
-On vous donne un arbre avec N noeuds ayant des noeuds numérotés de 1 à N- 1 . Chaque arête possède une valeur entière qui lui est attribuée (toutes les valeurs sont fixées à 1) , cette valeur représente la distance entre deux noeuds .
+On vous donne un arbre avec N noeuds ayant des noeuds numérotés de 1 à N . Chaque arête possède une valeur entière qui lui est attribuée (toutes les valeurs sont fixées à 1) , cette valeur représente la distance entre deux noeuds .
 
 ## Objectif
 
@@ -23,7 +23,7 @@ Nous vous demanderons d'évaluer des instructions de la forme suivante :
 3 6 // ...
 DIST 4 6
 KTH 4 6 4
-DONE // indique qu'il n'y a plus rien à faire
+DONE // indique qu'il n'y a plus rien à faire , arret du programme
 ```
 
 Le chemin entre le sommet 4 et le sommet 6 est : 4 -> 2 -> 1 -> 3 -> 6
@@ -53,6 +53,7 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 DIST 4 6 # afficher la plus courte distance entre ces deux noeuds
 DIST 1 2 # afficher la plus courte distance entre ces deux noeuds
 KTH 4 6 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers le sommet 6
+DONE # terminé!
 ```
   
   **Bien entendu il s'agit d'un** ***exemple*** ! Il peut y avoir plus/moins d'instructions et plus/moins de noeuds !
@@ -85,6 +86,7 @@ Voici les instructions:
 5 6  # ...
 DIST 4 6 # afficher la plus courte distance entre ces deux noeuds
 KTH 4 6 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers le sommet 6
+DONE
 ```
 
 + **2) PIF-2 - Coder l'algorithme**
