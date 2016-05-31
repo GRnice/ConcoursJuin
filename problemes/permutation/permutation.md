@@ -6,14 +6,14 @@ Il y a **permutation ambigüe** lorsqu'on applique une permutation inverse à un
 
 ## Objectif
 On vous donne deux listes d'entiers de même taille, le but est de savoir si une liste est permutation ambigüe ou pas de l'autre liste.
-Si une liste est permutation ambigüe , votre programme affiche ```TRUE```
-Sinon il affiche ```FALSE```
+Si une liste est permutation ambigüe , votre programme affiche ```R TRUE```
+Sinon il affiche ```R FALSE```
 
 
 ## Exemple
 
 **input**
-  ```
+  ```R
    4 
    1 4 3 2 
    1 4 3 2
