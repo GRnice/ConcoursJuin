@@ -1,7 +1,7 @@
 # SmartStack
 
 ## Problème:
-On souhaite implementer une structure de donnée semblable à une pile , à la différence que l'on souhaite pouvoir retirer des éléments à la base et au sommet
+On souhaite implementer une structure de donnée semblable à une pile , à la différence que l'on souhaite pouvoir retirer des éléments à la base et au sommet , la SmartStack stockera uniquement des entiers relatifs , de -2 147 483 648 à 2 147 483 647
 
 ## Objectif:
 La solution doit pouvoir :
@@ -26,7 +26,7 @@ les instructions doivent etre éxécutées dans **l'ordre**.
 ```
 PUSH 4      # ajouter 4
 PUSH 0      # ajouter 0
-PUSH 9      # ajouter 9
+PUSH -9      # ajouter -9
 PUSH 6      # ajouter 6
 PUSH 12     # ajouter 12
 PRINTSTACK  # afficher le contenu de la smartStack
@@ -50,16 +50,16 @@ PRINTSTACK  # afficher le contenu de la smartStack
 A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , la sortie devra afficher cela:
 
 ```
-4 0 9 6 12
-4 0 9
-0 9
+4 0 -9 6 12
+4 0 -9
+0 -9
 
 ```
 le résultat se termine avec un retour à la ligne
 
 ## Informations supplementaires:
 
-Si on vous demande d'afficher le contenu de la pile et qu'elle est vide vous ferez un simple retour à la ligne.
+Si on vous demande d'afficher le contenu de la pile alors qu'elle est vide vous ferez un simple retour à la ligne.
 
 + Exemple
 
