@@ -51,6 +51,7 @@ Votre programme devra traiter les paramètres donnés en entrée , et fournir un
 1 5  # ...
 5 6  # ...
 DIST 4 6 # afficher la plus courte distance entre ces deux noeuds
+DIST 1 2 # afficher la plus courte distance entre ces deux noeuds
 KTH 4 6 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers le sommet 6
 ```
   
@@ -60,6 +61,7 @@ KTH 4 6 2 # afficher le numero du 2ème sommet du chemin allant du sommet 4 vers
 A titre d'exemple , si votre programme récupère l'entrée donnée au dessus , la sortie devra ressembler à cela:
 ```
 5
+1
 3
 
 ```
