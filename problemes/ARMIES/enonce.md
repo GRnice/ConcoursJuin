@@ -7,9 +7,9 @@ Dans une liste de nombres représentant la puissant de feu de 2 armées qui s'af
 L'objectif est d'identifier **détecter** le vainqueur en evaluant la puissance de feu des divisions de chaque faction. Pour cela vous allez devoir additionner la puissance de feu de toutes les divisions de l'armée.
 
 ## Entrée & sortie:
-Votre programme devra traiter les paramètres donnés en entrée, et fournir une solution via une fonction d'affichage...
+Votre programme doit traiter les paramètres donnés en entrée, et fournir une solution via une fonction d'affichage...
 
-Chaque bataille est rerésentée par 4 lignes dans le fichier. Pour chaque chaque ensemble de 4 lignes, les 2 premieres lignes concernent l'equipe "Zerg" , et les 2 dernieres l'équipe "Terran".
+Chaque bataille est représentée par 4 lignes dans le fichier. Pour chaque chaque ensemble de 4 lignes, les 2 premieres lignes concernent l'equipe "Zerg" , et les 2 dernieres l'équipe "Terran".
 Dans les 2 lignes , la première indique le nombre de division que l'armée possède, la ligne suivante indique pour chaque division sa puissance de feu.
 
 ### Entrée
@@ -42,7 +42,7 @@ Dans les 2 lignes , la première indique le nombre de division que l'armée poss
 
 + Pour chaque bataille, les 2 premières lignes représentent l'armée nommée "Zerg" et les 2 suivantes représentent l'armée nommée "Terran". Il suffira juste d'afficher le nom du vainqueur, en cas d'égalité vous afficherez "Draw".
 
-Si votre programme reçoit l'entrée vue ci-dessus , votre programme devra afficher les messages suivants sur l'écran
+Si votre programme reçoit l'entrée vue ci-dessus , votre programme doit afficher les messages suivants sur l'écran
 ```
 Terran
 Terran
@@ -75,5 +75,5 @@ Résolvez le problème à la main et implementer un programme qui **affichera un
 
 + **2) ARM-2 - Implementer le programme**
 
-Cette fois ci implementez un programme qui traitera les entrées , il devra résoudre le problème et afficher le résultat obtenu.
+Cette fois ci implementez un programme qui traite les entrées , il devra résoudre le problème et afficher le résultat obtenu.
 **N'oubliez pas de terminer l'affichage du résultat par un retour à la ligne.**
