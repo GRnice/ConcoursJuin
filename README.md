@@ -9,8 +9,8 @@
 
 ## - **Compilation**
 
-+ Pour les programmes en C nous compilerons vos programmes avec cette commande : ```gcc -std=c99 -o executable code.c```
-+ Pour les programmes en C++ nous compilerons vos programmes avec cette commande : ```g++ -std=c++11 -o executable code.cpp```
++ Pour les programmes en C on compile les programmes avec cette commande : ```gcc -std=c99 -o executable code.c```
++ Pour les programmes en C++ on compile les programmes avec cette commande : ```g++ -std=c++11 -o executable code.cpp```
 
 ## - Liste des exercices:
 + [ARMIES](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/ARMIES/enonce.md "ARMIES")
