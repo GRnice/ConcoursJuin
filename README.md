@@ -2,7 +2,7 @@
 
 
 ## - **Prise en main**:
-+ [Prise en main](https://github.com/GRnice/ConcoursJuin/tree/master/PriseEnMain "Prise en main")
++ [Prise en main](https://github.com/GRnice/ConcoursJuin/tree/master/PriseEnMain/prise_en_main.md "Prise en main")
 
 ## - **Scoreboard**
 + [Scoreboard](http://concours-prog-unice.890m.com/receivers/score.html "sc")
