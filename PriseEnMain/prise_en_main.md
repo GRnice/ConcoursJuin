@@ -44,4 +44,4 @@ Organisation de votre espace de travail
 ==================
 
 #### <i class="icon-upload"></i> Classifier
- Afin de perdre le moins de temps possible nous vous recommandons de créer un dossier dédié au tp noté (sur votre bureau par exemple...), et au sein de ce meme dossier , créer un dossier pour chaque problème , vous aurez un espace de travail plus clair et hiérarchisé.
+ Afin de perdre le moins de temps possible nous vous recommandons de créer un dossier dédié au tp noté (sur votre bureau par exemple...), et au sein de ce meme dossier , créer un dossier pour chaque problème , vous aurez un espace de travail plus clair.
