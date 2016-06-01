@@ -1,7 +1,7 @@
 # Concours de programmation 2016
 
 
-## - **Prise en main**:
+## - **Prise en main et connexion**:
 + [Prise en main](https://github.com/GRnice/ConcoursJuin/tree/master/PriseEnMain/prise_en_main.md "Prise en main")
 
 ## - **Scoreboard**
