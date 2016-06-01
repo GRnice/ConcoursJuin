@@ -1,7 +1,7 @@
 Prise en main de PC2
 ==================
 
-> Ok alors je veux bien faire les exercices mais comment je fais pour vous envoyer mes productions ?
+> Ok alors je veux bien faire les exercices mais comment je fais pour vous envoyer mes codes ?
 
 ----------------
 
@@ -14,7 +14,7 @@ Nommé pc2team par ses concepteurs , cet outil vous permettra de soumettre vos p
 > **Comment lancer pc2team ?**
 
 > - Ouvrez un terminal et entrez ```pc2team.sh &```
-> - Une fenêtre vous invitera à entrez votre mot de passe que vous nous avez transmis ,ainsi que le login donné en début de séance.
+> - Une fenêtre vous invitera à entrez votre mot de passe ,ainsi que le login ```teamXX`` rattaché à votre nom de groupe que vous trouverez sur cette ![page](https://github.com/GRnice/ConcoursJuin/blob/master/PriseEnMain/lookup.md "lookup").
 
 --------
 #### <i class="icon-upload"></i> Soumettre une solution
