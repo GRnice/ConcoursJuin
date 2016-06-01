@@ -19,3 +19,4 @@ SploitCatcher | team19
 ByrdKyng | team20
 Random Squad | team21
 on en a gros | team22
+Yoshi Island | team23
