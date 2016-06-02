@@ -6,18 +6,21 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (void)
-{
-  char buf[256]; // une ligne n'excedera jamais 256 caracteres.
-  int i = 0;
-  while (fgets (buf, sizeof(buf), stdin))
-  {
-    // buf contient la ième ligne
-    i++;
+int main(void) {
+  unsigned int n=1, m;
+  while(n) {
+    if ( scanf("%d", &n) == EOF) {
+      n=0;
+    }
+    else {
+      printf("%d\n", n);
+      while(n--) {
+        scanf("%d", &m);
+        printf("%d ", m);
+      }
+      printf("\n");
+	}
   }
-  if (ferror(stdin)) {
-    return 1;
-  }
-  return 0;
+  return EXIT_SUCCESS;
 }
 ```
