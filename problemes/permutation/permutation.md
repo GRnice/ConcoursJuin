@@ -94,7 +94,7 @@ Votre programme devra traiter les paramètres donnés en entrée, et fournir une
 
 # Exercices:
 
-+ **1) PERM-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code du language de votre de choix.**
++ **1) PERM-1 - Dans un premier temps calculez le résultat à la main pour le cas d'une permutation ambigüe et envoyez-le avec un code du language de votre de choix.**
 	+ **Exemple**
 
 		+ **Input**
