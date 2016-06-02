@@ -117,7 +117,7 @@ PRINTSTACK  # afficher le contenu de la smartStack
   PRINTSTACK
   PUSH 9
   BASEPOP
-  PRINSTACK
+  PRINTSTACK
   ```
     + Sortie:
     ```
