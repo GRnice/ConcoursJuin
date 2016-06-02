@@ -109,7 +109,6 @@ PRINTSTACK  # afficher le contenu de la smartStack
 
     + Entrée:
     ```
-  8           # nombre d'instructions a éxécuter dans l'ordre
   PUSH 5      # ajouter 5
   PUSH 0      # ajouter 0
   PRINTSTACK
@@ -137,7 +136,6 @@ PRINTSTACK  # afficher le contenu de la smartStack
     
     + Entrée:
       ```
-      6
       PUSH 1
       PUSH 2
       BASEPUSH 0
