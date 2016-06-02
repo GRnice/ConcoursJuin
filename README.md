@@ -16,7 +16,7 @@
 + [ARMIES](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/ARMIES/enonce.md "ARMIES")
 + [BANK](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/bank_money/enonce_bank_money.md "BANK")
 + [Permutation](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/permutation/permutation.md "Permutation")
-+ [Epluchage](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/epluchage/enonce.md "Epluchage")
++ [Epluchage](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/epluchage/epluchage.md "Epluchage")
 + [SmartStack](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/smartStack/enonce.md "SmartStack")
 + [Isatree](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/isATree/enonce.md "Isatree")
 + [PathInATree](https://github.com/GRnice/ConcoursJuin/blob/master/problemes/pathiatree/enonce.md "Qtree")
