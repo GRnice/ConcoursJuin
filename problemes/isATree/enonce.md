@@ -44,7 +44,7 @@ Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un
 
   + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md  "python")
   + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
-  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/smartStack/entreeC.md "C")
+  + En [C](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeC.md "C")
   + En [Java](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeJava.md "Java")
   + En [R](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeR.md "Java")
 
