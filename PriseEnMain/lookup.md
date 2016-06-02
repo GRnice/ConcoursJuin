@@ -1,6 +1,6 @@
 Nom du groupe | LOGIN
 ------------- | -------------
-NAG | team4
+NAG | team25
 Intrepid | team5
 Prout | team6
 SJA | team7
@@ -20,3 +20,4 @@ ByrdKyng | team20
 Random Squad | team21
 on en a gros | team22
 Yoshi Island | team23
+Les bastards | team24
