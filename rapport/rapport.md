@@ -18,10 +18,25 @@ Notre travail se divise en plusieurs notions:
 + Le déploiement d'une infrastructure permettant aux organisateurs de concretiser un concours , et aux étudiants de soumettre leurs solutions.
 + La creation d'un site web , ainsi que le développement d'une procédure d'inscription au concours pour les étudiants.
 + Le developpement de nos propres solutions sous plusieurs langages résolvant nos differents problèmes afin de vérifier la validité des tests édités
++ Communication : présenter le concept aux étudiants
 
 Nous nous sommes appuyé sur deux infrastructures
 
 Une dédiée au **support des énoncés** GitHub , et une autre nommée qui nous a permis d'articuler le concours qui est une solution en Java nommée PC² http://pc2.ecs.csus.edu/ , développée par l'université d'état de Californie de Sacramento http://www.csus.edu/ , à travers son interface nous avons configuré les différents paramètres du concours.
+
+## Les Concours
+Le ter s'est déroulé en deux temps , un premier temps où nous avons lancé un premier concours dans le cadre d'un TP noté dans l'UE Algo & Prog avec R http://www.i3s.unice.fr/~malapert/org/teaching/introR.html.
+
+Puis dans un deuxième temps un vrai concours où les étudiants motivés se sont inscrits via notre site vitrine.
+
+## Le logiciel PC2
+
+PC2 peut etre tout à fait utilisé par les professeurs , pour cette raison nous avons fait une vidéo montrant comment installer PC2 , et comment parametrer les modalités d'un concours.
+
+Nous vous proposons de découvrir tout cela sur ces deux vidéos :
+
++ video1
++ video2
 
 
 ## Gestion de projet
@@ -29,4 +44,7 @@ Une dédiée au **support des énoncés** GitHub , et une autre nommée qui nous
 Au vue de la granularité des taches attribuées nous n'avons pas jugé utile l'emploi d'une plateforme telle que Jira , nous avons en revanche effectué un découpage des taches afin de pouvoir faire le point de manière hebdomadaire avec Mr Malapert afin de maximiser la communication et limiter les incompréhensions.
 
 ## Conclusion
+
+
 ## Perspectives et reflexions personnelles
+
