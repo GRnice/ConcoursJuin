@@ -4,7 +4,7 @@
 On souhaite analyser une structure de données composée de sommets et d'arêtes, et déterminer s'il s'agit d'arbre ou d'un graphe.
 
 Un arbre, par définition est un graphe connexe sans cycle,
-Soit G un arbre à n sommets, il a pour propriétées:
+Soit G un arbre à n sommets, il a pour propriétés :
 + Tout couple de sommets est relié par une arête unique.
 + G est sans cycle et en ajoutant une arête on en crée un.
 + G est connexe et si on supprime une arête il ne l'est plus.
@@ -13,7 +13,7 @@ Soit G un arbre à n sommets, il a pour propriétées:
 
 ## Objectif
 
-Implementer un programme qui indiquera si oui ou non un ensemble de sommets et d'arêtes représentent arbre.
+Implémentez un programme qui indiquera si oui ou non un ensemble de sommets et d'arêtes représentent arbre.
 
 ## Exemple
 
@@ -35,12 +35,12 @@ Dans cet exemple on a:
 + le sommet 1 relié à ceux du 2 et 3.
 + le sommet 2 relié à celui du 4.
 
-Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un arbre.
+Toutes les propriétés des arbres sont validées on peut affirmer que c'est un arbre.
 
 
-## Entrée&Sortie
+## Entrée & Sortie
 
-+ **Pour récuperer l'entrée:**
++ **Pour récupérer l'entrée:**
 
   + En [python](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreePython.md  "python")
   + En [C++](https://github.com/GRnice/ConcoursJuin/blob/master/IO/entreeCPP.md  "C++")
@@ -59,11 +59,11 @@ Toutes les propriétés des arbres sont validées ont peut affirmé que c'est un
   + La première ligne est composée du nombre de sommets suivie par le nombre d'arêtes.
   + Les lignes suivantes représentes les couples de sommets (i,j) tel que i est le père de j.
 
-**On suppose que les entrées sont toujours bien formés.**
+**On suppose que les entrées sont toujours bien formées.**
 
 ### Sortie
 
-+ Si votre programme récupère l'entrée donnée ci-dessus , votre programme retournera
++ Si votre programme récupère l'entrée donnée ci-dessus, votre programme retournera
 
 ```
 FALSE
@@ -73,7 +73,7 @@ FALSE
 
 # Exercices
 
-+ **1) IST-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code du language qu'il vous plait.**
++ **1) IST-1 - Dans un premier temps calculez le résultat à la main et envoyez-le avec un code dans le langage de votre.**
 	+ **Exemple**
 
 		+ **Input**
@@ -112,6 +112,6 @@ FALSE
 	**La sortie se terminera sur un retour à la ligne**
 	
             
-+ **2) IST-2 - A partir des couples de sommets donnés en entrée, ecrire un code qui détermine si ils représentent un arbre ou pas.**
++ **2) IST-2 - A partir des couples de sommets donnés en entrée, écrire un code qui détermine si ils représentent un arbre ou pas.**
 
 **La sortie se terminera sur un retour à la ligne**
