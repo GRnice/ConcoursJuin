@@ -2,20 +2,31 @@
 ## Sujet : Organisation d'un concours de programmation
 ## Encadrant : Arnaud Malapert www.i3s.unice.fr/~malapert/
 </br></br>
-## Introduction:
 
-        Présentation du groupe
-        Présentation du sujet
-## État de l'art
+## Introduction:
+Le sujet de notre ter est de réaliser un concours de programmation au sein de l'université sophia-antipolis,
+afin de mener à bien notre tache principale , nous avons donc fait divers choix , et divers developpements.
+
+Nous vous présenterons les différents aspects de nos travaux
+
 ## Travail effectué
+
+Notre travail se divise en plusieurs notions:
+
++ La rédaction des énoncés.
++ L'écriture des cas de tests , nécessaires pour vérifier la validité des codes des participants aux concours.
++ Le déploiement d'une infrastructure permettant aux organisateurs de concretiser un concours , et aux étudiants de soumettre leurs solutions.
++ La creation d'un site web , ainsi que le développement d'une procédure d'inscription au concours pour les étudiants.
++ Le developpement de nos propres solutions sous plusieurs langages résolvant nos differents problèmes afin de vérifier la validité des tests édités
+
+Nous nous sommes appuyé sur deux infrastructures
+
+Une dédiée au **support des énoncés** GitHub , et une autre nommée qui nous a permis d'articuler le concours qui est une solution en Java nommée PC² http://pc2.ecs.csus.edu/ , développée par l'université d'état de Californie de Sacramento http://www.csus.edu/ , à travers son interface nous avons configuré les différents paramètres du concours.
+
+
 ## Gestion de projet
+
+Au vue de la granularité des taches attribuées nous n'avons pas jugé utile l'emploi d'une plateforme telle que Jira , nous avons en revanche effectué un découpage des taches afin de pouvoir faire le point de manière hebdomadaire avec Mr Malapert afin de maximiser la communication et limiter les incompréhensions.
+
 ## Conclusion
 ## Perspectives et reflexions personnelles
-
-```
-1 2 3 4 5 6 7 8 9 1 2 3 4 42 23 22 55
-4 8 9 42 67 4 7 42
-42 4242 42 11
-4242 42 8 9 77
-1 2 3 4 5 42 6 7 8 9
-```
