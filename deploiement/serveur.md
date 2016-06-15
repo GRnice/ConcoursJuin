@@ -25,7 +25,7 @@ A cette adresse http://pc2.ecs.csus.edu/secret.0216.html
 
 ### **Définir** le fichier de configuration *pc2v9.ini*
 
-Ouvrez le dossier pc2 où vous trouverez un fichier de configuration nommé *pc2v9.ini* , ouvrez le et inserez à la ligne ```server=localhost:50002``` l'adresse IP du serveur ainsi que le port utilisé par PC2 , exemple ```server=128.129.130.131:50002```
+Ouvrez le dossier pc2 où vous trouverez un fichier de configuration nommé *pc2v9.ini* , ouvrez le et inserez à la ligne ```server=localhost:50002``` l'adresse IP du serveur ainsi que le port utilisé par PC2 , exemple ```server=128.129.130.131:50002``` puis déplacez le dans le dossier bin.
 
 ### **Ajouter** au PATH de la machine le chemin absolu menant au dossier bin du dossier pc2
 
