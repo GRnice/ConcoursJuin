@@ -1,6 +1,10 @@
 # Rapport du TER
 ## Sujet : Organisation d'un concours de programmation
 ## Encadrant : Arnaud Malapert www.i3s.unice.fr/~malapert/
+### Année 2016 - Université de Sophia-Antipolis
+### Etudiants : Mathias Ellapin - Rémy Giangrasso - Charles Heitzler
+
+
 </br></br>
 
 ## Introduction:
