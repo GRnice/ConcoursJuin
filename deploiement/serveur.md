@@ -3,7 +3,13 @@
 ## Fonctionnement
 
 Pc2 est une solution permettant de gerer le bon déroulement d'un concours de programmation , à travers son interface vous
-pourrez ajouter des problemes , définir les langages autorisés, et définir des comptes pour differents usages.
+pourrez ajouter des problemes , définir les langages autorisés, et créer des comptes pour differents usages.
+
++ pc2server est un programme qui sert de pont entre les differents services de pc2
++ pc2admin est un compte administrateur qui permet aux organisateurs d'ajouter des comptes , ajouter des problèmes , langages et bien plus.
++ pc2judge est un compte qui se charge exclusivement de l'évaluation automatique des soumissions des étudiants à partir des tests écrits par les organisateurs.
++ pc2team est un compte client , c'est à partir de ce programme que les étudiants se connectent au serveur.
++ pc2reset fait un reset du concours , suppression des problèmes , tout est remis à plat.
 
 ## Pré-requis
 
@@ -19,7 +25,7 @@ A cette adresse http://pc2.ecs.csus.edu/secret.0216.html
 
 ### **Définir** le fichier de configuration *pc2v9.ini*
 
-Ouvrez le dossier pc2 où vous trouverez un fichier de configuration nommé *pc2v9.ini* , ouvrez le et inserer à la ligne ```server=localhost:50002``` l'adresse IP du serveur ainsi que le port utilisé par PC2 , exemple ```server=128.129.130.131:50002```
+Ouvrez le dossier pc2 où vous trouverez un fichier de configuration nommé *pc2v9.ini* , ouvrez le et inserez à la ligne ```server=localhost:50002``` l'adresse IP du serveur ainsi que le port utilisé par PC2 , exemple ```server=128.129.130.131:50002```
 
 ### **Ajouter** au PATH de la machine le chemin absolu menant au dossier bin du dossier pc2
 
