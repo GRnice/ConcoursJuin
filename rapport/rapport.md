@@ -37,7 +37,7 @@ Avec le lien menant au site vitrine présentant le concours http://concours-prog
 
 ## Le logiciel PC2
 
-PC2 peut etre utilisé par les professeurs dans le cadre d'un examen , pour cette raison nous avons fait une vidéo montrant comment l'installeret le parametrer .
+PC2 peut etre utilisé par les professeurs dans le cadre d'un examen , pour cette raison nous avons fait une vidéo montrant comment l'installer et le parametrer.
 
 Nous vous proposons de découvrir tout cela sur ces deux vidéos :
 
