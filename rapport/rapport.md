@@ -43,10 +43,9 @@ Avec le lien menant au site vitrine présentant le concours http://concours-prog
 
 PC2 peut etre utilisé par les professeurs dans le cadre d'un examen , pour cette raison nous avons fait une vidéo montrant comment l'installer et le parametrer.
 
-Nous vous proposons de découvrir tout cela sur ces deux vidéos :
+Nous vous proposons de découvrir tout cela en vidéo :
 
-+ video1
-+ video2
++ video -> https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/video-tuto.mp4
 
 Ainsi que une documentation pour déployer la partie serveur et client.
 
