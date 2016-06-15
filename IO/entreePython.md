@@ -12,7 +12,7 @@ Inserez le dans votre code , la variable ```data``` est un tableau de Strings.
 
 **Note**: /!\ Prenez garde aux caracteres de fin de ligne. /!\
 
-Pour vous débarasser des caracteres invisibles contenus dans chaque ligne de ```data``` , procedez ainsi.
+Pour vous débarrasser des caracteres invisibles contenus dans chaque ligne de ```data``` , procedez ainsi.
 
 ```Python
 # avant la boucle , data contient des caracteres invisibles (caractère de saut de ligne par exemple)
