@@ -7,7 +7,7 @@
 Le sujet de notre ter est de réaliser un concours de programmation au sein de l'université sophia-antipolis,
 afin de mener à bien notre tache principale , nous avons donc fait divers choix , et divers developpements.
 
-Nous vous présenterons les différents aspects de nos travaux
+Nous vous présenterons nos travaux , le déroulement du ter notamment les temps forts , nous expliquerons également comment s'approprier le logiciel qui nous a permis de concretiser les concours , notre gestion du projet , et enfin nous terminerons sur une conclusion.
 
 ## Travail effectué
 
