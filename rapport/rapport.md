@@ -5,11 +5,12 @@
 ### Etudiants : Mathias Ellapin - Rémy Giangrasso - Charles Heitzler
 
 
-</br></br>
+## Remerciements
+Nous tenons tout d'abord à remercier notre encadrant mr Malapert et au CRIPS qui nous ont tout au long de ce projet donné leurs conseils ,les outils et leurs temps pour mener à bien ce projet.
 
 ## Introduction:
-Le sujet de notre ter est de réaliser un concours de programmation au sein de l'université sophia-antipolis,
-afin de mener à bien notre tache principale , nous avons donc fait divers choix , et divers developpements.
+Le sujet de notre ter est de réaliser un concours de programmation au sein de l'université Sophia Antipolis,
+afin de mener à bien notre tache principale , nous avons donc fait divers choix , et divers développements.
 
 Nous vous présenterons nos travaux , le déroulement du ter avec ses temps forts , nous vous présenterons également nos choix technologiques  , notre gestion du projet , et enfin nous terminerons sur une conclusion.
 
@@ -19,9 +20,9 @@ Notre travail se divise en plusieurs notions:
 
 + La rédaction des énoncés.
 + L'écriture des cas de tests , nécessaires pour vérifier la validité des codes des participants aux concours.
-+ Le déploiement d'une infrastructure permettant aux organisateurs de concretiser un concours , et aux étudiants de soumettre leurs solutions.
-+ La creation d'un site web , ainsi que le développement d'une procédure d'inscription au concours pour les étudiants.
-+ Le developpement de nos propres solutions sous plusieurs langages résolvant nos differents problèmes afin de vérifier la validité des tests édités
++ Le déploiement d'une infrastructure permettant aux organisateurs de concrétiser un concours , et aux étudiants de soumettre leurs solutions.
++ La création d'un site web , ainsi que le développement d'une procédure d'inscription au concours pour les étudiants.
++ Le développement de nos propres solutions sous plusieurs langages résolvant nos différents problèmes afin de vérifier la validité des tests édités
 + Communication : présenter le concept aux étudiants
 
 En choix technologique nous nous sommes appuyé sur deux infrastructures
@@ -30,10 +31,10 @@ Une dédiée au **support des énoncés** GitHub , et une autre qui nous a permi
 
 ## Les problèmes
 Ajouter un problème au concours nécessite de passer par plusieurs étapes :
-+ Inventer des énoncés , ou s'inspirer des problèmes des concours en ligne sur le web , tel que SPOJ.
-+ Implementer une solution dans un langage , étudier sa complexité.
++ Inventer des énoncés, ou s'inspirer des problèmes des concours en ligne sur le web , tel que SPOJ.
++ Implémenter une solution dans un langage , étudier sa complexité.
 + Définir les cas de tests , les cas limites par exemple.
-+ Implementer le problème sous differents langages pour à la fois apprécier les differentes manières de concevoir une solution pour un problème P , et mettre à l'épreuve nos tests.
++ Implémenter le problème sous différents langages pour à la fois apprécier les différentes manières de concevoir une solution pour un problème P , et mettre à l'épreuve nos tests.
 + Enfin il ne reste plus que à ajouter le problème dans le logiciel PC2 avec les tests (écrits à la main) associés.
 
 ## Les Concours
@@ -49,11 +50,11 @@ Avec le lien menant au site vitrine présentant le concours http://concours-prog
 
 ## Le logiciel PC2
 
-PC2 peut etre utilisé par les professeurs dans le cadre d'un examen , pour cette raison nous avons fait une vidéo montrant comment l'installer et le parametrer.
+PC2 peut être utilisé par les professeurs dans le cadre d'un examen , pour cette raison nous avons fait une vidéo montrant comment l'installer et le paramétrer.
 
 Nous vous proposons de découvrir tout cela en vidéo :
 
-+ video -> https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/video-tuto.mp4
++ vidéo -> https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/video-tuto.mp4
 
 Ainsi que une documentation pour déployer la partie serveur et client.
 
@@ -65,5 +66,5 @@ Ainsi que une documentation pour déployer la partie serveur et client.
 Au vue de la granularité des taches attribuées nous n'avons pas jugé utile l'emploi d'une plateforme telle que Jira , nous avons en revanche effectué un découpage des taches afin de pouvoir faire le point de manière hebdomadaire avec Mr Malapert afin de maximiser la communication et limiter les incompréhensions.
 
 ## Conclusion
-Nous avons à travers ce projet apprécié son hétérogénéité , dans le sens où nous ne nous sommes pas cantonné dans un domaine précis mais bien dans plusieurs domaines , en allant du déploiement d'une infrastructure avec la collaboration du CRIPS à l'implementation des solutions dans plusieurs langages afin d'évaluer la complexité des problèmes posés aux étudiants.
-Cela aura été l'occasion d'établir une percée dans le domaine de l'autoévaluation qui donnera peut etre envie aux professeursd'experimenter cette solution.
+Nous avons à travers ce projet apprécié son hétérogénéité , dans le sens où nous ne nous sommes pas cantonné dans un domaine précis mais bien dans plusieurs domaines , en allant du déploiement d'une infrastructure avec la collaboration du CRIPS à l'implémentation des solutions dans plusieurs langages afin d'évaluer la complexité des problèmes posés aux étudiants.
+Cela aura été l'occasion d'établir une percée dans le domaine de l'autoévaluation qui donnera peut-être envie aux professeurs d'expérimenter cette solution.
