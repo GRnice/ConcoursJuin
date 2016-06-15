@@ -1,7 +1,7 @@
 # Recuperer les entrées en R
 
 ## Code 
-Le code donné ci-dessous recupère pour vous les paramètres necessaires pour résoudre les problèmes
+Le code donné ci-dessous recupère pour vous les paramètres necéssaires pour résoudre les problèmes
 
 + **Pour lire L lignes de l'entrée standard:**
   ```R
@@ -9,7 +9,7 @@ Le code donné ci-dessous recupère pour vous les paramètres necessaires pour r
   suiteNombre=scan(file=flux, what=type, nline=L, quiet=TRUE)
   ```
   
-  **example**: récuprérer les deux lignes premieres lignes composées d'entiers:
+  **example**: récuprérer les deux premieres lignes composées d'entiers:
   
   ```R  
   flux=file("stdin","r")
@@ -33,7 +33,7 @@ while(TRUE)
 }
   ```
 
-**type** : définie le type de la donnée lu en entrée:
+**type** : définit le type de la donnée lue en entrée:
 
  + integer() pour des entiers (int)
  + character() pour des caractères (char)
