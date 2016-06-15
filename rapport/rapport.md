@@ -11,7 +11,7 @@
 Le sujet de notre ter est de réaliser un concours de programmation au sein de l'université sophia-antipolis,
 afin de mener à bien notre tache principale , nous avons donc fait divers choix , et divers developpements.
 
-Nous vous présenterons nos travaux , le déroulement du ter notamment les temps forts , nous expliquerons également comment s'approprier le logiciel qui nous a permis de concretiser les concours , notre gestion du projet , et enfin nous terminerons sur une conclusion.
+Nous vous présenterons nos travaux , le déroulement du ter avec ses temps forts , nous vous présenterons également nos choix technologiques  , notre gestion du projet , et enfin nous terminerons sur une conclusion.
 
 ## Travail effectué
 
@@ -24,9 +24,17 @@ Notre travail se divise en plusieurs notions:
 + Le developpement de nos propres solutions sous plusieurs langages résolvant nos differents problèmes afin de vérifier la validité des tests édités
 + Communication : présenter le concept aux étudiants
 
-Nous nous sommes appuyé sur deux infrastructures
+En choix technologique nous nous sommes appuyé sur deux infrastructures
 
-Une dédiée au **support des énoncés** GitHub , et une autre nommée qui nous a permis d'articuler le concours qui est une solution en Java nommée PC² http://pc2.ecs.csus.edu/ , développée par l'université d'état de Californie de Sacramento http://www.csus.edu/ , à travers son interface nous avons configuré les différents paramètres du concours.
+Une dédiée au **support des énoncés** GitHub , et une autre qui nous a permis d'articuler le concours qui est une solution en Java nommée PC² http://pc2.ecs.csus.edu/ , développée par l'université d'état de Californie de Sacramento http://www.csus.edu/ , à travers son interface nous avons configuré les différents paramètres du concours.
+
+## Les problèmes
+Ajouter un problème au concours nécessite de passer par plusieurs étapes :
++ Inventer des énoncés , ou s'inspirer des problèmes des concours en ligne sur le web , tel que SPOJ.
++ Implementer une solution dans un langage , étudier sa complexité.
++ Définir les cas de tests , les cas limites par exemple.
++ Implementer le problème sous differents langages pour à la fois apprécier les differentes manières de concevoir une solution pour un problème P , et mettre à l'épreuve nos tests.
++ Enfin il ne reste plus que à ajouter le problème dans le logiciel PC2 avec les tests (écrits à la main) associés.
 
 ## Les Concours
 Le ter s'est déroulé en deux temps , un premier temps où nous avons lancé un premier concours dans le cadre d'un TP noté dans l'UE Algo & Prog avec R http://www.i3s.unice.fr/~malapert/org/teaching/introR.html.
@@ -57,7 +65,5 @@ Ainsi que une documentation pour déployer la partie serveur et client.
 Au vue de la granularité des taches attribuées nous n'avons pas jugé utile l'emploi d'une plateforme telle que Jira , nous avons en revanche effectué un découpage des taches afin de pouvoir faire le point de manière hebdomadaire avec Mr Malapert afin de maximiser la communication et limiter les incompréhensions.
 
 ## Conclusion
-
-
-## Perspectives et reflexions personnelles
-
+Nous avons à travers ce projet apprécié son hétérogénéité , dans le sens où nous ne nous sommes pas cantonné dans un domaine précis mais bien dans plusieurs domaines , en allant du déploiement d'une infrastructure avec la collaboration du CRIPS à l'implementation des solutions dans plusieurs langages afin d'évaluer la complexité des problèmes posés aux étudiants.
+Cela aura été l'occasion d'établir une percée dans le domaine de l'autoévaluation qui donnera peut etre envie aux professeursd'experimenter cette solution.
