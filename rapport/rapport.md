@@ -47,6 +47,7 @@ Les liens menant aux deux concours :
 + concours du 2 juin https://github.com/GRnice/ConcoursJuin/blob/master/MAIN.md
 
 Avec le lien menant au site vitrine présentant le concours http://concours-prog-unice.890m.com
+A partir du site vous pouvez accèder aux énoncés , au tableau des scores des équipes et enfin du podium.
 
 ## Le logiciel PC2
 
