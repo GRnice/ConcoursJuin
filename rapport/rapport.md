@@ -27,7 +27,13 @@ Une dédiée au **support des énoncés** GitHub , et une autre nommée qui nous
 ## Les Concours
 Le ter s'est déroulé en deux temps , un premier temps où nous avons lancé un premier concours dans le cadre d'un TP noté dans l'UE Algo & Prog avec R http://www.i3s.unice.fr/~malapert/org/teaching/introR.html.
 
-Puis dans un deuxième temps un vrai concours où les étudiants motivés se sont inscrits via notre site vitrine.
+Puis dans un deuxième temps un vrai concours début juin où les étudiants motivés se sont inscrits via notre site vitrine.
+
+Les liens menant aux deux concours :
++ concours du 18 avril https://github.com/GRnice/concoursProgram/blob/master/README.md
++ concours du 2 juin https://github.com/GRnice/ConcoursJuin/blob/master/MAIN.md
+
+Avec le lien menant au site vitrine présentant le concours http://concours-prog-unice.890m.com
 
 ## Le logiciel PC2
 
