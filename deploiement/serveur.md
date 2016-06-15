@@ -34,3 +34,5 @@ Ouvrez le dossier pc2 où vous trouverez un fichier de configuration nommé *pc2
 A présent le dispositif est posé , si vous souhaitez créer un concours , il est necessaire de créer un dossier car lors de lancement du concours TOUS les fichiers log seront écrits dans le dossier d'où vous avez instancié le concours .
 
 **Creez** un dossier , sur un terminal positionnez vous dessus , et tapez ```pc2server --ini ./pc2v9.ini &``` , le site est lancé , le login et le mot de passe sont par défaut ```site1``` , vous aurez par la suite un autre mot de passe à définir.
+
+Le mot de passe par défaut de l'administrateur est *administrator1* et son login *root*
