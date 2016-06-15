@@ -44,7 +44,7 @@ Nous vous proposons de découvrir tout cela sur ces deux vidéos :
 + video1
 + video2
 
-Ainsi que une documentation pour déployer la partie serveur et cliente.
+Ainsi que une documentation pour déployer la partie serveur et client.
 
 + Partie serveur https://github.com/GRnice/ConcoursJuin/blob/master/deploiement/serveur.md
 + Partie client https://github.com/GRnice/ConcoursJuin/blob/master/deploiement/client.md
