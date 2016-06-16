@@ -8,10 +8,14 @@ et la partie serveur correctement déployée.
 
 ## Etapes
 
-### **Déplacer** un sous-ensemble du dossier client sur les machines de la fac ,  le dossier pc2 client
-contiendra seulement dans son dossier *bin* {*pc2env*,*pc2team*,*pc2v9.ini*,*pc2ver*}.
+### **Télécharger** un zip du logiciel PC2
 
-### **Définir** le fichier de configuration *pc2v9.ini* , vous devez préciser l'adresse du serveur et le port utilisé
+### **Dézipper** le dossier sur un dossier local aux machines du réseau.
+
+### **Supprimer** des éléments du dossier pc2 client qui ne serviront pas au client ,  le dossier **bin**
+contiendra seulement les fichiers {*pc2env*,*pc2team*,*pc2ver*}.
+
+### **Configurer** le fichier de configuration *pc2v9.ini* , vous devez préciser l'adresse du serveur et le port utilisé
 
 Ouvrez le dossier pc2 où vous trouverez un fichier de configuration nommé *pc2v9.ini* , ouvrez le et inserez à la ligne ```server=adr_serveur?:port?``` l'adresse IP du serveur ainsi que le port utilisé par PC2 , exemple ```server=128.129.130.131:50002```
 
@@ -32,4 +36,4 @@ export PATH
 ### **Terminé !**
 
 
-**L'étudiant** lors du concours créera un dossier ,puis sur un terminal se positionnera dessus , et tapera ```pc2team.sh``` , l'interface se lancera et il pourra s'authentifier.
+**L'étudiant** lors du concours créera un dossier dans son espace ,puis sur un terminal se positionnera dessus , et tapera ```pc2team.sh``` , l'interface se lancera et il pourra s'authentifier.
