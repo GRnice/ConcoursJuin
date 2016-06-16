@@ -31,7 +31,7 @@ Une dédiée au **support des énoncés** GitHub , et une autre qui nous a permi
 
 ## Les problèmes
 Ajouter un problème au concours nécessite de passer par plusieurs étapes :
-+ Inventer des énoncés, ou s'inspirer des problèmes des concours en ligne sur le web , tel que SPOJ.
++ Inventer des énoncés, ou s'inspirer des problèmes des concours en ligne sur le web , tel que [SPOJ](http://www.spoj.com/ "spoj).
 + Implémenter une solution dans un langage , étudier sa complexité.
 + Définir les cas de tests , les cas limites par exemple.
 + Implémenter le problème sous différents langages pour à la fois apprécier les différentes manières de concevoir une solution pour un problème P , et mettre à l'épreuve nos tests.
