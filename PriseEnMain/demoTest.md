@@ -38,7 +38,7 @@ alors la sortie attendue sera
 Admettons vous avez créé un dossier pour ce problème, votre programme se nomme ```sum.py``` , et vous avez créé un fichier de test ```test.txt``` , et votre session PC2 est ouverte.
 ![Alt text](https://github.com/GRnice/ConcoursJuin/blob/master/PriseEnMain/StepOneTest.PNG?raw=true "")
 
-Sélectionnez le problème à résoudre, ainsi que le langage, puis cliquer sur ```select``` et sélectionnez votre code, en l'occurrence ```sum.py ```
+Sélectionnez le problème à résoudre, ainsi que le langage, puis cliquez sur ```select``` et sélectionnez votre code, en l'occurrence ```sum.py ```
 ![Alt text](https://github.com/GRnice/ConcoursJuin/blob/master/PriseEnMain/StepTwoTest.PNG?raw=true "")
 
 Admettons que votre code ressemble à ceci, il récupère l’entrée, boucle dessus, fait la somme et affiche le résultat
