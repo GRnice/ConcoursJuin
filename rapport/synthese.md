@@ -5,6 +5,16 @@
 ### Etudiants : Mathias Ellapin - Rémy Giangrasso - Charles Heitzler
 
 
+## Sommaire
++ Rmerciements
++ Introduction
++ Travail effectué
++ Les problèmes
++ Les concours
++ Le logiciel PC2
++ Gestion de projet
++ Conclusion
+
 ## Remerciements
 Nous tenons tout d'abord à remercier notre encadrant mr Malapert et au CRIPS qui nous ont tout au long de ce projet donné leurs conseils ,les outils et leurs temps pour mener à bien ce projet.
 
