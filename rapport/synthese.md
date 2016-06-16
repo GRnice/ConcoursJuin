@@ -20,7 +20,7 @@ Nous tenons tout d'abord à remercier notre encadrant mr Malapert et au CRIPS qu
 
 ## Introduction
 Le sujet de notre ter est de réaliser un concours de programmation au sein de l'université Sophia Antipolis.
-Afin de mener à bien notre tache principale , nous avons donc fait divers choix , et divers développements.
+Afin de mener à bien notre tache principale , nous avons donc fait divers choix et divers développements.
 
 Nous vous présenterons nos travaux , le déroulement du ter avec ses temps forts , nos choix technologiques  , notre gestion du projet et enfin nous terminerons sur une conclusion.
 
@@ -44,7 +44,7 @@ Ajouter un problème au concours nécessite de passer par plusieurs étapes :
 + Inventer des énoncés, ou s'inspirer des problèmes des concours en ligne sur le web , tel que [SPOJ](http://www.spoj.com/ "spoj").
 + Implémenter une solution dans un langage , étudier sa complexité.
 + Définir les cas de tests , les cas limites par exemple.
-+ Implémenter le problème sous différents langages pour à la fois apprécier les différentes manières de concevoir une solution pour un problème P , et mettre à l'épreuve nos tests.
++ Implémenter le problème sous différents langages pour à la fois apprécier les différentes manières de concevoir une solution pour un problème P et mettre à l'épreuve nos tests.
 + Enfin il ne reste plus que à ajouter le problème dans le logiciel PC2 avec les tests (écrits à la main) associés.
 
 ## Les Concours
