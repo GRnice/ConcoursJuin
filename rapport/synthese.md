@@ -6,7 +6,7 @@
 
 
 ## Sommaire
-+ Rmerciements
++ Remerciements
 + Introduction
 + Travail effectué
 + Les problèmes
