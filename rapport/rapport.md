@@ -38,15 +38,18 @@ Ajouter un problème au concours nécessite de passer par plusieurs étapes :
 + Enfin il ne reste plus que à ajouter le problème dans le logiciel PC2 avec les tests (écrits à la main) associés.
 
 ## Les Concours
-Le ter s'est déroulé en deux temps , un premier temps où nous avons lancé un premier concours dans le cadre d'un TP noté dans l'UE Algo & Prog avec R http://www.i3s.unice.fr/~malapert/org/teaching/introR.html.
+Le ter s'est déroulé en deux temps , un premier temps où nous avons lancé un premier concours dans le cadre d'un TP noté dans l'UE
+[Algo & Prog avec R](http://www.i3s.unice.fr/~malapert/org/teaching/introR.html "Algo & Prog avec R")
+ 
 
 Puis dans un deuxième temps un vrai concours début juin où les étudiants motivés se sont inscrits via notre site vitrine.
 
 Les liens menant aux deux concours :
-+ concours du 18 avril https://github.com/GRnice/concoursProgram/blob/master/README.md
-+ concours du 2 juin https://github.com/GRnice/ConcoursJuin/blob/master/MAIN.md
 
-Avec le lien menant au site vitrine présentant le concours http://concours-prog-unice.890m.com
++ [concours du 18 avril](https://github.com/GRnice/concoursProgram/blob/master/README.md "concours du 18 avril") 
++ [concours du 2 juin](https://github.com/GRnice/concoursProgram/blob/master/README.md "concours du 2 juin")
+
+Avec ce [lien](http://concours-prog-unice.890m.com "lien 2 juin") menant au site vitrine présentant le concours 
 A partir du site vous pouvez accèder aux énoncés , au tableau des scores des équipes et enfin du podium.
 
 ## Le logiciel PC2
@@ -54,13 +57,11 @@ A partir du site vous pouvez accèder aux énoncés , au tableau des scores des 
 PC2 peut être utilisé par les professeurs dans le cadre d'un examen , pour cette raison nous avons fait une vidéo montrant comment l'installer et le paramétrer.
 
 Nous vous proposons de découvrir tout cela en vidéo :
-
-+ vidéo -> https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/video-tuto.mp4
++  [vidéo](https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/video-tuto.mp4 "movie")
 
 Ainsi que une documentation pour déployer la partie serveur et client.
-
-+ Partie serveur https://github.com/GRnice/ConcoursJuin/blob/master/deploiement/serveur.md
-+ Partie client https://github.com/GRnice/ConcoursJuin/blob/master/deploiement/client.md
++ Partie [serveur](https://github.com/GRnice/ConcoursJuin/blob/master/deploiement/serveur.md "serveur")
++ Partie [client](https://github.com/GRnice/ConcoursJuin/blob/master/deploiement/serveur.md "client")
 
 ## Gestion de projet
 
