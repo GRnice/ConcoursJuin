@@ -60,7 +60,7 @@ Les liens menant aux deux concours :
 + [concours du 2 juin](https://github.com/GRnice/concoursProgram/blob/master/README.md "concours du 2 juin")
 
 Avec ce [lien](http://concours-prog-unice.890m.com "lien 2 juin") menant au site vitrine présentant le concours 
-A partir du site vous pouvez accèder aux énoncés , au tableau des scores des équipes et enfin du podium.
+A partir du site vous pouvez accéder aux énoncés , au tableau des scores des équipes et enfin du podium.
 
 ## Le logiciel PC2
 
@@ -78,5 +78,5 @@ Ainsi que une documentation pour déployer la partie serveur et client.
 Au vue de la granularité des taches attribuées nous n'avons pas jugé utile l'emploi d'une plateforme telle que Jira , nous avons en revanche effectué un découpage des taches de telle sorte que nous puissions faire le point une fois par semaine avec Mr Malapert afin de maximiser la communication et limiter les incompréhensions sur la feuille de route.
 
 ## Conclusion
-Nous avons à travers ce projet apprécié son hétérogénéité , dans le sens où nous ne nous sommes pas cantonné dans un domaine précis mais bien dans plusieurs domaines , en allant du déploiement d'une infrastructure avec la collaboration du CRIPS à l'implémentation des solutions dans plusieurs langages afin d'évaluer la complexité des problèmes posés aux étudiants.
+Nous avons à travers ce projet apprécié son hétérogénéité, dans le sens où nous ne nous sommes pas cantonné dans un domaine précis mais bien dans plusieurs domaines , en allant du déploiement d'une infrastructure avec la collaboration du CRIPS à l'implémentation des solutions dans plusieurs langages afin d'évaluer la complexité des problèmes posés aux étudiants.
 Cela aura été l'occasion d'établir une percée dans le domaine de l'autoévaluation qui donnera peut-être envie aux professeurs d'expérimenter cette solution.
