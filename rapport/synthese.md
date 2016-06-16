@@ -37,7 +37,7 @@ Notre travail se divise en plusieurs notions:
 
 En choix technologique nous nous sommes appuyé sur deux infrastructures:
 
-Une dédiée au **support des énoncés** GitHub , et une autre qui nous a permis d'articuler le concours qui est une solution en Java nommée PC² http://pc2.ecs.csus.edu/ , développée par l'université d'état de Californie de Sacramento http://www.csus.edu/ . A travers son interface nous avons configuré les différents paramètres du concours.
+Une dédiée au **support des énoncés** GitHub et une autre qui nous a permis d'articuler le concours qui est une solution en Java nommée PC² http://pc2.ecs.csus.edu/ , développée par l'université d'état de Californie de Sacramento http://www.csus.edu/ . A travers son interface nous avons configuré les différents paramètres du concours.
 
 ## Les problèmes
 Ajouter un problème au concours nécessite de passer par plusieurs étapes :
@@ -48,10 +48,8 @@ Ajouter un problème au concours nécessite de passer par plusieurs étapes :
 + Enfin il ne reste plus que à ajouter le problème dans le logiciel PC2 avec les tests (écrits à la main) associés.
 
 ## Les Concours
-Le ter s'est déroulé en deux temps , un premier temps où nous avons lancé un premier concours dans le cadre d'un TP noté dans l'UE
-[Algo & Prog avec R](http://www.i3s.unice.fr/~malapert/org/teaching/introR.html "Algo & Prog avec R")
- 
-
+Le ter s'est déroulé en deux temps :  un premier temps où nous avons lancé un premier concours dans le cadre d'un TP noté dans l'UE
+[Algo & Prog avec R.](http://www.i3s.unice.fr/~malapert/org/teaching/introR.html "Algo & Prog avec R")
 Puis dans un deuxième temps un vrai concours début juin où les étudiants motivés se sont inscrits via notre site vitrine.
 
 Les liens menant aux deux concours :
