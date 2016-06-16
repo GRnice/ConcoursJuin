@@ -29,7 +29,7 @@ PC2HOME=/chemin/absolu/du/dossier/client
 $PC2HOME/bin/pc2team --ini $PC2HOME/pc2v9.ini &
 ```
 
-### **Ajouter** au PATH de la machine le chemin absolu menant au dossier bin du dossier pc2 client
+### **Ajouter** au PATH de la machine le chemin absolu menant du dossier pc2 client
 ```shell
 PATH=$PATH:/chemin/absolu/du/dossier/client
 export PATH
