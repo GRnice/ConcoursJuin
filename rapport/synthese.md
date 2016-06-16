@@ -18,7 +18,7 @@
 ## Remerciements
 Nous tenons tout d'abord à remercier notre encadrant mr Malapert et au CRIPS qui nous ont tout au long de ce projet donné leurs conseils ,les outils et leurs temps pour mener à bien ce projet.
 
-## Introduction:
+## Introduction
 Le sujet de notre ter est de réaliser un concours de programmation au sein de l'université Sophia Antipolis,
 afin de mener à bien notre tache principale , nous avons donc fait divers choix , et divers développements.
 
@@ -60,7 +60,7 @@ Les liens menant aux deux concours :
 + [concours du 2 juin](https://github.com/GRnice/concoursProgram/blob/master/README.md "concours du 2 juin")
 
 Avec ce [lien](http://concours-prog-unice.890m.com "lien 2 juin") menant au site vitrine présentant le concours 
-A partir du site vous pouvez accéder aux énoncés , au tableau des scores des équipes et enfin du podium.
+, vous pouvez accéder aux énoncés , au tableau des scores des équipes et enfin du podium.
 
 ## Le logiciel PC2
 
