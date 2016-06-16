@@ -22,7 +22,7 @@ Nous tenons tout d'abord à remercier notre encadrant mr Malapert et au CRIPS qu
 Le sujet de notre ter est de réaliser un concours de programmation au sein de l'université Sophia Antipolis.
 Afin de mener à bien notre tache principale , nous avons donc fait divers choix , et divers développements.
 
-Nous vous présenterons nos travaux , le déroulement du ter avec ses temps forts , nous vous présenterons également nos choix technologiques  , notre gestion du projet , et enfin nous terminerons sur une conclusion.
+Nous vous présenterons nos travaux , le déroulement du ter avec ses temps forts , nos choix technologiques  , notre gestion du projet , et enfin nous terminerons sur une conclusion.
 
 ## Travail effectué
 
