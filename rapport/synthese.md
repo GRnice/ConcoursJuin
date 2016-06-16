@@ -49,8 +49,7 @@ Ajouter un problème au concours nécessite de passer par plusieurs étapes :
 
 ## Les Concours
 Le ter s'est déroulé en deux temps :  un premier temps où nous avons lancé un premier concours dans le cadre d'un TP noté dans l'UE
-[Algo & Prog avec R.](http://www.i3s.unice.fr/~malapert/org/teaching/introR.html "Algo & Prog avec R")
-Puis dans un deuxième temps un vrai concours début juin où les étudiants motivés se sont inscrits via notre site vitrine.
+[Algo & Prog avec R](http://www.i3s.unice.fr/~malapert/org/teaching/introR.html "Algo & Prog avec R") puis dans un deuxième temps un vrai concours début juin où les étudiants motivés se sont inscrits via notre site vitrine.
 
 Les liens menant aux deux concours :
 
