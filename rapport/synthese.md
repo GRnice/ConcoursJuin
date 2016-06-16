@@ -30,14 +30,14 @@ Notre travail se divise en plusieurs notions:
 
 + La rédaction des énoncés.
 + L'écriture des cas de tests , nécessaires pour vérifier la validité des codes des participants aux concours.
-+ Le déploiement d'une infrastructure permettant aux organisateurs de concrétiser un concours , et aux étudiants de soumettre leurs solutions.
++ Le déploiement d'une infrastructure permettant aux organisateurs de concrétiser un concours et aux étudiants de soumettre leurs solutions.
 + La création d'un site web , ainsi que le développement d'une procédure d'inscription au concours pour les étudiants.
 + Le développement de nos propres solutions sous plusieurs langages résolvants nos différents problèmes afin de vérifier la validité des tests édités
 + Communication : présenter le concept aux étudiants
 
-En choix technologique nous nous sommes appuyé sur deux infrastructures
+En choix technologique nous nous sommes appuyé sur deux infrastructures:
 
-Une dédiée au **support des énoncés** GitHub , et une autre qui nous a permis d'articuler le concours qui est une solution en Java nommée PC² http://pc2.ecs.csus.edu/ , développée par l'université d'état de Californie de Sacramento http://www.csus.edu/ , à travers son interface nous avons configuré les différents paramètres du concours.
+Une dédiée au **support des énoncés** GitHub , et une autre qui nous a permis d'articuler le concours qui est une solution en Java nommée PC² http://pc2.ecs.csus.edu/ , développée par l'université d'état de Californie de Sacramento http://www.csus.edu/ . A travers son interface nous avons configuré les différents paramètres du concours.
 
 ## Les problèmes
 Ajouter un problème au concours nécessite de passer par plusieurs étapes :
