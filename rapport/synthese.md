@@ -68,7 +68,7 @@ Nous vous proposons de découvrir tout cela en vidéo :
 +  [déploiement coté client](https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/client.mp4 "movie")
 +  [exemple avec un mini-concours](https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/video-tuto.mp4 "movie")
 
-Ainsi que une documentation pour déployer la partie serveur et client.
+Ainsi qu'une documentation pour déployer la partie serveur et client:
 + Partie [serveur](https://github.com/GRnice/ConcoursJuin/blob/master/deploiement/serveur.md "serveur")
 + Partie [client](https://github.com/GRnice/ConcoursJuin/blob/master/deploiement/client.md "client")
 
