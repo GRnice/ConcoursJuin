@@ -15,8 +15,9 @@ et la partie serveur correctement déployée.
 ### **Supprimer** des éléments du dossier pc2 client qui ne serviront pas au client ,  le dossier **bin**
 contiendra seulement les fichiers {*pc2env*,*pc2team*,*pc2ver*}.
 
-### **Configurer** le fichier de configuration *pc2v9.ini* , vous devez préciser l'adresse du serveur et le port utilisé
+### **Configurer** le fichier de configuration *pc2v9.ini*
 
+Vous devez préciser l'adresse du serveur et le port utilisé.
 Ouvrez le dossier pc2 où vous trouverez un fichier de configuration nommé *pc2v9.ini* , ouvrez le et inserez à la ligne ```server=adr_serveur?:port?``` l'adresse IP du serveur ainsi que le port utilisé par PC2 , exemple ```server=128.129.130.131:50002```
 
 ### **Editer** un fichier .sh pour faciliter le lancement du compte client , il contiendra ces trois lignes:
