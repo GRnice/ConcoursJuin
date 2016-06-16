@@ -22,7 +22,7 @@ Notre travail se divise en plusieurs notions:
 + L'écriture des cas de tests , nécessaires pour vérifier la validité des codes des participants aux concours.
 + Le déploiement d'une infrastructure permettant aux organisateurs de concrétiser un concours , et aux étudiants de soumettre leurs solutions.
 + La création d'un site web , ainsi que le développement d'une procédure d'inscription au concours pour les étudiants.
-+ Le développement de nos propres solutions sous plusieurs langages résolvant nos différents problèmes afin de vérifier la validité des tests édités
++ Le développement de nos propres solutions sous plusieurs langages résolvants nos différents problèmes afin de vérifier la validité des tests édités
 + Communication : présenter le concept aux étudiants
 
 En choix technologique nous nous sommes appuyé sur deux infrastructures
