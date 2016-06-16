@@ -74,7 +74,7 @@ Ainsi qu'une documentation pour déployer la partie serveur et client:
 
 ## Gestion de projet
 
-Au vue de la granularité des taches attribuées, nous n'avons pas jugé utile l'emploi d'une plateforme telle que Jira . Nous avons en revanche effectué un découpage des taches de telle sorte que nous puissions faire le point une fois par semaine avec Mr Malapert afin de maximiser la communication et limiter les incompréhensions sur la feuille de route.
+Au vue de la granularité des taches attribuées, nous n'avons pas jugé utile l'emploi d'une plateforme telle que Jira . Nous avons en ,revanche, effectué un découpage des taches de telle sorte que nous puissions faire le point une fois par semaine avec Mr Malapert afin de maximiser la communication et limiter les incompréhensions sur la feuille de route.
 
 ## Conclusion
 Nous avons à travers ce projet apprécié son hétérogénéité dans le sens où nous ne nous sommes pas cantonné dans un domaine précis mais bien dans plusieurs domaines en allant du déploiement d'une infrastructure avec la collaboration du CRIPS à l'implémentation des solutions dans plusieurs langages afin d'évaluer la complexité des problèmes posés aux étudiants.
