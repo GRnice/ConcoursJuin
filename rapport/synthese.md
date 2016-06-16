@@ -64,7 +64,7 @@ Avec ce [lien](http://concours-prog-unice.890m.com "lien 2 juin") menant au site
 
 ## Le logiciel PC2
 
-PC2 peut être utilisé par les professeurs dans le cadre d'un examen , pour cette raison nous avons fait des vidéos montrants comment l'installer et le paramétrer.
+PC2 peut être utilisé par les professeurs dans le cadre d'un examen , pour cette raison nous avons fait des vidéos montrant comment l'installer et le paramétrer.
 
 Nous vous proposons de découvrir tout cela en vidéo :
 +  [déploiement coté serveur](https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/serveur.mp4 "movie")
