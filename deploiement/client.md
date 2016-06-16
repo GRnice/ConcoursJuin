@@ -12,8 +12,9 @@ et la partie serveur correctement déployée.
 
 ### **Dézipper** le dossier sur un dossier local aux machines du réseau.
 
-### **Supprimer** des éléments du dossier pc2 client qui ne serviront pas au client ,  le dossier **bin**
-contiendra seulement les fichiers {*pc2env*,*pc2team*,*pc2ver*}.
+### **Supprimer** des éléments du dossier pc2 client qui ne serviront pas au client
+
+le dossier **bin** contiendra seulement les fichiers {*pc2env*,*pc2team*,*pc2ver*}.
 
 ### **Configurer** le fichier de configuration *pc2v9.ini*
 
