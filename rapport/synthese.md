@@ -69,7 +69,7 @@ PC2 peut être utilisé par les professeurs dans le cadre d'un examen , pour cet
 Nous vous proposons de découvrir tout cela en vidéo :
 +  [déploiement coté serveur](https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/serveur.mp4 "movie")
 +  [déploiement coté client](https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/client.mp4 "movie")
-+  [ajout d'un problème](https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/video-tuto.mp4 "movie")
++  [exemple avec un mini-concours](https://raw.githubusercontent.com/GRnice/ConcoursJuin/master/video-tuto.mp4 "movie")
 
 Ainsi que une documentation pour déployer la partie serveur et client.
 + Partie [serveur](https://github.com/GRnice/ConcoursJuin/blob/master/deploiement/serveur.md "serveur")
